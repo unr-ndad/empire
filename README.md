@@ -36,8 +36,8 @@ Reno, Nevada, U.S.A.
 Download the program [pdf](link) here.
 
 ### Sessions
-1. [Scholarly framing (digital humanities & French colonial history - sessions/1.md)](sessions/1.md)
-2. [Metadata structure - /../../sessions/2.md](sessions/2.md)
+1. [Scholarly framing (digital humanities & French colonial history)](sessions/1.md)
+2. [Metadata structure](sessions/2.md)
 3. [Natural language processing (NLP) workflow](sessions/3.md)
 4. [Domain adaptation (for early modern French)](sessins/4.md)
 5. [Ethical data visualization](sessions/5.md)
@@ -72,11 +72,11 @@ Download the program [pdf](link) here.
     Melbourne, Australia
 
 ### Participants
-- [**Charles Tshimanga-Kashama**](https://www.unr.edu/history/faculty-staff/charles-tshimanga-kashama)  
+- [Charles Tshimanga-Kashama](https://www.unr.edu/history/faculty-staff/charles-tshimanga-kashama)  
     Associate Professor of History  
     Department of History  
     University of Nevada, Reno  
-- [**Katherine McDonough**](https://www.turing.ac.uk/people/researchers/katherine-mcdonough)  
+- [Katherine McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough)  
     Senior Research Associate  
     The Alan Turing Institute  
     British Library  
