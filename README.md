@@ -1,9 +1,11 @@
 ![graphic recording workshop overview](images/graphic-recording-intro.png)
-# Ethical Visualization in the Age of Big Data:  
+# Ethical Visualization in the Age of Big Data  
 ## Contemporary Cultural Implications of Pre-Twentieth-Century French Texts
 ### Planning Workshop Summary
 
 ------------------------------
+## About
+
 #### A workshop to seek interdisciplinary expert perspectives on ethically and visually representing the historical place of misrepresented peoples and locales.
 
 **Held on** 9–10 January, 2020  
@@ -18,7 +20,7 @@ Reno, Nevada, U.S.A.
 - [Program](#Program)
 - [Participants](#participants)
 - [Dataset](#dataset)
-- [Documents](#documents)
+- [Documentation](#documentation)
 - [Credits](#credits)
 
 ### Coming up
@@ -27,6 +29,8 @@ Reno, Nevada, U.S.A.
 - [Participate](#participate)
 
 ------------------------------
+## The workshop
+-----------------------------
 
 ## Program
 Download the program [pdf](link) here.
@@ -68,11 +72,11 @@ Download the program [pdf](link) here.
     Melbourne, Australia
 
 ### Participants
-- **Charles Tshimanga-Kashama**  
+- [**Charles Tshimanga-Kashama**](https://www.unr.edu/history/faculty-staff/charles-tshimanga-kashama)  
     Associate Professor of History  
     Department of History  
     University of Nevada, Reno  
-- **Katherine McDonough**  
+- [**Katherine McDonough**](https://www.turing.ac.uk/people/researchers/katherine-mcdonough)  
     Senior Research Associate  
     The Alan Turing Institute  
     British Library  
@@ -147,6 +151,65 @@ Something goes here
 
 &nbsp;
 -----------------------------
+## Credits
+
+### Citation
+From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for Impact in the Sciences and Data Sciences", *HCII Conference 2020 Proceedings*.
+
+### Funding
+The following institutions have supported development of this method.
+- National Endowment of the Humanities Office of Digital Humanities, Award No. [HAA-266490-19](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266490-19)
+- Reynolds School of Journalism, University of Nevada, Reno
+- College of Liberal Arts, University of Nevada, Reno
+
+### Acknowledgements
+Acknowledgement of previous versions can be found in the documentation for each one, listed below. In addition to previous contributions, I am grateful for the contributions, discussion, and feedback on this version from [Sage Cheng](https://www.accessnow.org/profile/sage-cheng/) at Access Now, Sonia Jalfin at [Sociopublico](http://sociopublico.com/en/us.php), [Max Frischknecht](https://maxfrischknecht.ch/) of Bern University of the Applied Arts, and [Georgia Bullen](https://simplysecure.org/who-we-are/georgia.html) of Simply Secure. 
+
+&nbsp;
+-----------------------------
+
+## Coming up
+-----------------------------
+
+## 
+
+
+&nbsp;
+-----------------------------
+## Future activities
+
+### Visualizing Empire project
+
+Something here. 
+
+### Ethical Visualization Workflow
+
+This method is under regularly updated. It is a key activity of Katherine Hepworth's interdisciplinary research. 
+
+### White paper
+
+### Project stages
+
+|Version    |Date   |Title   |
+|:---|:---|:---|
+| Version 3.1 | April 2020  | Ethical Visualization for Impact  |
+| [Version 3.0](ethical_visualization_3_0.md) | March 2020  | Ethical Visualization for Impact  |
+| [Version 2.1](ethical_visualization_2_1.md) | October 2019  | Ethical Visualization  |
+| [Version 2.0](ethical_visualization_2_0.md)   | October 2019  | Ethical Visualization  |
+| [Version 1.1](ethical_visualization_1_1.md)   | May 2019  | Ethical Visualization  |
+| [Version 1](ethical_visualization_1_0.md)   | December 2018  | Ethical Visualization Workflow  |
+
+&nbsp;
+-----------------------------
+
+## Reflections
+
+Something here.
+
+
+
+&nbsp;
+-----------------------------
 
 ## Participate
 
@@ -162,41 +225,4 @@ Have a high-stakes visualization you need to make an impact? There are a limited
 &nbsp;
 -----------------------------
 
-## Credits
-
-### Citation
-From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for Impact in the Sciences and Data Sciences", *HCII Conference 2020 Proceedings*.
-
-### Funding
-The following institutions have supported development of this method.
-- Nevada NASA (National Aeronautics and Space Administration) Space Grant Consortium, Award No. NNX15AI02H
-- National Endowment of the Humanities Office of Digital Humanities, Award No. HAA-266490-19
-- University of Nevada, Reno, various internal grants
-- Mick Hitchcock Ph.D. Project for Visualizing Science
-
-### Acknowledgements
-Acknowledgement of previous versions can be found in the documentation for each one, listed below. In addition to previous contributions, I am grateful for the contributions, discussion, and feedback on this version from [Sage Cheng](https://www.accessnow.org/profile/sage-cheng/) at Access Now, Sonia Jalfin at [Sociopublico](http://sociopublico.com/en/us.php), [Max Frischknecht](https://maxfrischknecht.ch/) of Bern University of the Applied Arts, and [Georgia Bullen](https://simplysecure.org/who-we-are/georgia.html) of Simply Secure. 
-
-&nbsp;
------------------------------
-
-## Future activities
-
-### Updates
-
-This method is under regularly updated. It is a key activity of Katherine Hepworth's interdisciplinary research. 
-
-### Versions
-
-|Version    |Date   |Title   |
-|:---|:---|:---|
-| Version 3.1 | April 2020  | Ethical Visualization for Impact  |
-| [Version 3.0](ethical_visualization_3_0.md) | March 2020  | Ethical Visualization for Impact  |
-| [Version 2.1](ethical_visualization_2_1.md) | October 2019  | Ethical Visualization  |
-| [Version 2.0](ethical_visualization_2_0.md)   | October 2019  | Ethical Visualization  |
-| [Version 1.1](ethical_visualization_1_1.md)   | May 2019  | Ethical Visualization  |
-| [Version 1](ethical_visualization_1_0.md)   | December 2018  | Ethical Visualization Workflow  |
-
-&nbsp;
------------------------------
-[Back to top](#Ethical-Visualization-in-the-Age-of-Big-Data: Contemporary-Cultural-Implications-of-Pre-Twentieth-Century French-Texts)
+[Back to top](#Ethical-Visualization-in-the-Age-of-Big-Data)
