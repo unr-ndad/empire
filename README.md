@@ -17,7 +17,7 @@ Reno, Nevada, U.S.A.
 ## Details
 
 ### The workshop
-- [Program](#Program)
+- [Program](#program)
 - [Participants](#participants)
 - [Dataset](#dataset)
 - [Documentation](#documentation)
@@ -219,8 +219,6 @@ You can follow development of this work by subscribing to Dr Katherine Hepworth'
 ### Contribute
 If you'd like to contribute to the development of this work, please reach out at khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implmentation. 
 
-### Project help
-Have a high-stakes visualization you need to make an impact? There are a limited number of spots available for client work under the auspices of the Mick Hitchcock Ph.D. Project for Visualizing Science. To express your interest, reach out at khepworth at unr dot edu.
 
 &nbsp;
 -----------------------------
