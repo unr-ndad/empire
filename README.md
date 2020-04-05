@@ -5,9 +5,9 @@
 ------------------------------
 ##### A workshop to seek interdisciplinary expert perspectives on ethically and visually representing the historical place of misrepresented peoples and locales.
 
-** Held on **
+**Held on**
 9–10 January, 2020  
-**At ** Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
+**At** Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
 Reno, Nevada, U.S.A.  
 ** Organized by **  Katherine Hepworth [website](https://kathep.com) & Christopher Church [website](http://www.christophermchurch.com/)
 
