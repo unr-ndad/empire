@@ -34,12 +34,12 @@ Download the program [pdf](link) here.
 ### Sessions
 1. [Scholarly framing (digital humanities & French colonial history - sessions/1.md)](sessions/1.md)
 2. [Metadata structure - /../../sessions/2.md](/../../sessions/2.md)
-- [3 | Natural language processing (NLP) workflow](3.md)
-- [4 | Domain adaptation (for early modern French)](4.md)
-- [5 | Ethical data visualization](5.md)
-- [6 | Mapping and interface design usability](6.md)
-- [7 | Adapting and integrating existing open source projects](7.md)
-- [8 | Input and output (i/o), ongoing maintenance & preservation](8.md)
+3. [Natural language processing (NLP) workflow](3.md)
+4. [Domain adaptation (for early modern French)](4.md)
+5. [Ethical data visualization](5.md)
+6. [Mapping and interface design usability](6.md)
+7. [Adapting and integrating existing open source projects](7.md)
+8. [Input and output (i/o), ongoing maintenance & preservation](8.md)
 
 &nbsp;
 -----------------------------
