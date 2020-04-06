@@ -151,13 +151,18 @@ B. identifying and preventing visual perpetuation of pernicious narratives about
 ### Credits
 
 #### Support
-The following institutions have provided financial support for this workshop and project.
+This workshop was made possible by the generosity of:
 - [National Endowment of the Humanities Office of Digital Humanities](https://www.neh.gov/divisions/odh), Award No. [HAA-266490-19](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266490-19)
 - [Reynolds School of Journalism](https://www.unr.edu/journalism), University of Nevada, Reno
 - [College of Liberal Arts](https://www.unr.edu/liberal-arts), University of Nevada, Reno
 
 #### Acknowledgements
-In addition to the participants, this workshop was successful thanks to the contributions of many people, including: [Mikki Johnson](https://www.linkedin.com/in/mikki-johnson-4708b084/), Administrative Assistant in the Department of History, and the staff at [Beaujolais Bistro](https://beaujolaisbistro.com/) and [Perenn Bakery](https://www.perennbakery.com/).
+In addition to the participants and supporting instituions, this workshop was successful thanks to the contributions of many people, including:
+- [Mikki Johnson](https://www.linkedin.com/in/mikki-johnson-4708b084/), Department of History, University of Nevada, Reno
+- Mark Higgins, Facilities Management, University of Nevada, Reno
+- Sally Echeto and Barbara Trainor, Reynolds School of Journalism, University of Nevada, Reno
+- Fatima and Catherine Leland, Silver and Blue Catering, University of Nevada, Reno
+- The staff at [Beaujolais Bistro](https://beaujolaisbistro.com/) and [Perenn Bakery](https://www.perennbakery.com/).
 
 &nbsp;
 
@@ -245,7 +250,7 @@ Add something here.
 ### Associated activity
 
 #### Ethical visualization workflow
-We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: (https://kathep.github.io/ethics/)
+We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: [https://kathep.github.io/ethics/]
 
 #### Ethical Data Visualization: Taming Treacherous Data course
 We teach the method described above as well as how to navigate the concerns explored in this project in the course 'Ethical Data Visualization: Taming Treacherous Data'. This course was offered in 2018 and 2019 at the Digital Humanities Summer Institute (DHSI) at the University of Victoria, Vancouver Island, Canada, and in 2019 at DHDownunder at the University of Newcastle, New South Wales, Australia. See the [DHSI course content](https://github.com/cmchurch/DHSI-ethical-dataviz) and [DHDownunder course content](https://github.com/kathep/DHDownunder-ethical-dataviz) in these repositories.
