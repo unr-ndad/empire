@@ -250,7 +250,7 @@ Add something here.
 ### Associated activity
 
 #### Ethical visualization workflow
-We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: [https://kathep.github.io/ethics/]
+We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: <https://kathep.github.io/ethics/>
 
 #### Ethical Data Visualization: Taming Treacherous Data course
 We teach the method described above as well as how to navigate the concerns explored in this project in the course 'Ethical Data Visualization: Taming Treacherous Data'. This course was offered in 2018 and 2019 at the Digital Humanities Summer Institute (DHSI) at the University of Victoria, Vancouver Island, Canada, and in 2019 at DHDownunder at the University of Newcastle, New South Wales, Australia. See the [DHSI course content](https://github.com/cmchurch/DHSI-ethical-dataviz) and [DHDownunder course content](https://github.com/kathep/DHDownunder-ethical-dataviz) in these repositories.
@@ -283,7 +283,7 @@ Something here. Add link.
 ### Participate
 
 #### Follow
-You can follow development of this work by subscribing to Dr Katherine Hepworth's newsletter at https://broaderimpacts.substack.com.
+You can follow development of this work by subscribing to DO WE WANT TO MAKE A NEWSLETTER???
 
 #### Contribute
 We welcome communication, contributions, and thoughts on this work, particularly from people in the French diaspora. If you'd like to contribute to the development of this work, please reach out at cchurch at unr dot edu or khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implementation.
