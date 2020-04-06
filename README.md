@@ -29,7 +29,7 @@ Reno, Nevada, U.S.A.
 - [Files](#files)
 - [Links](#links)
 - [Reflections](#reflections)
-- [Associated activity](#associated-activity)
+- [Related scholarly activity](#related-scholarly-activity)
 
 ### Next steps
 - [Future activities](#future-activities)
@@ -245,7 +245,7 @@ Add something here.
 
 ------------------------------
 
-### Associated activity
+### Related scholarly activity
 
 #### Ethical visualization workflow
 We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: <https://kathep.github.io/ethics/>
@@ -256,6 +256,10 @@ We teach the method described above as well as how to navigate the concerns expl
 #### Racism in the Machine paper
 We wrote a paper on work prepatory to this workshop, it is available here:
 Katherine Hepworth and Christopher Church. 2018. [“Racism in the Machine: Visualization Ethics in Digital Humanities Projects.”](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html) *Digital Humanities Quarterly* 12:4.
+
+#### Make Me Care paper
+This paper incorporates some considerations explored at the workshop, and applies them to an expanded view of ethical visualization, beyond the digital humanities.
+From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for Impact in the Sciences and Data Sciences", *HCII Conference 2020 Proceedings*.
 
 &nbsp;
 
