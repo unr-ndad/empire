@@ -17,15 +17,17 @@ Reno, Nevada, U.S.A.
 ## Details
 
 ### The workshop
-- [Program](#program)
+- [Subjects discussed](#subjects-discussed)
 - [Participants](#participants)
+- [Credits](#credits)
+
+### Documentation
 - [Dataset](#dataset)
 - [Documentation](#documentation)
-- [Credits](#credits)
+- [Reflections](#reflections)
 
 ### Coming up
 - [Future activities](#future-activities)
-- [Reflections](#reflections)
 - [Participate](#participate)
 
 ------------------------------
@@ -163,7 +165,7 @@ The following institutions have supported development of this method.
 - College of Liberal Arts, University of Nevada, Reno
 
 ### Acknowledgements
-Acknowledgement of previous versions can be found in the documentation for each one, listed below. In addition to previous contributions, I am grateful for the contributions, discussion, and feedback on this version from [Sage Cheng](https://www.accessnow.org/profile/sage-cheng/) at Access Now, Sonia Jalfin at [Sociopublico](http://sociopublico.com/en/us.php), [Max Frischknecht](https://maxfrischknecht.ch/) of Bern University of the Applied Arts, and [Georgia Bullen](https://simplysecure.org/who-we-are/georgia.html) of Simply Secure. 
+Acknowledgement of previous versions can be found in the documentation for each one, listed below. In addition to previous contributions, I am grateful for the contributions, discussion, and feedback on this version from [Sage Cheng](https://www.accessnow.org/profile/sage-cheng/) at Access Now, Sonia Jalfin at [Sociopublico](http://sociopublico.com/en/us.php), [Max Frischknecht](https://maxfrischknecht.ch/) of Bern University of the Applied Arts, and [Georgia Bullen](https://simplysecure.org/who-we-are/georgia.html) of Simply Secure.
 
 &nbsp;
 -----------------------------
@@ -171,7 +173,7 @@ Acknowledgement of previous versions can be found in the documentation for each 
 ## Coming up
 -----------------------------
 
-## 
+##
 
 
 &nbsp;
@@ -180,11 +182,11 @@ Acknowledgement of previous versions can be found in the documentation for each 
 
 ### Visualizing Empire project
 
-Something here. 
+Something here.
 
 ### Ethical Visualization Workflow
 
-This method is under regularly updated. It is a key activity of Katherine Hepworth's interdisciplinary research. 
+This method is under regularly updated. It is a key activity of Katherine Hepworth's interdisciplinary research.
 
 ### White paper
 
@@ -217,7 +219,7 @@ Something here.
 You can follow development of this work by subscribing to Dr Katherine Hepworth's newsletter at https://broaderimpacts.substack.com.
 
 ### Contribute
-If you'd like to contribute to the development of this work, please reach out at khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implmentation. 
+If you'd like to contribute to the development of this work, please reach out at khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implmentation.
 
 
 &nbsp;
