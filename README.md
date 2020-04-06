@@ -28,6 +28,7 @@ Reno, Nevada, U.S.A.
 - [Dataset](#dataset)
 - [Files](#files)
 - [Reflections](#reflections)
+- [Associated activity](#)
 
 ### Coming up
 - [Future activities](#future-activities)
@@ -130,11 +131,11 @@ Reno, Nevada, U.S.A.
 
 ### Credits
 
-#### Funding
-The following institutions have provided support for this workshop and project.
-- National Endowment of the Humanities Office of Digital Humanities, Award No. [HAA-266490-19](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266490-19)
-- Reynolds School of Journalism, University of Nevada, Reno
-- College of Liberal Arts, University of Nevada, Reno
+#### Support
+The following institutions have provided financial support for this workshop and project.
+- [National Endowment of the Humanities Office of Digital Humanities](https://www.neh.gov/divisions/odh), Award No. [HAA-266490-19](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266490-19)
+- [Reynolds School of Journalism](https://www.unr.edu/journalism), University of Nevada, Reno
+- [College of Liberal Arts](https://www.unr.edu/liberal-arts), University of Nevada, Reno
 
 #### Acknowledgements
 In addition to the participants, this workshop was successful thanks to the contributions of many people, including: [Mikki Johnson](https://www.linkedin.com/in/mikki-johnson-4708b084/), Administrative Assistant in the Department of History, and the staff at [Beaujolais Bistro](https://beaujolaisbistro.com/) and [Perenn Bakery](https://www.perennbakery.com/).
@@ -150,7 +151,7 @@ In addition to the participants, this workshop was successful thanks to the cont
 ### Dataset
 Something goes here.
 
-#### Formatted data
+### Formatted data
 - [Add Link](link)
   Description goes here
 - [Add Link](link)
@@ -171,9 +172,54 @@ The following table outlines the cleaning processes have been performed to arriv
 | [Version x](link)   | Add date  | Data scraped from BnF holdings using ADD TOOL/METHOD |
 
 
-## Files
-Something goes here.
+### Files
+All files are available by downloading the github repository. This includes au.
 
+#### Briefing materials
+#### Audio files
+#### Presentation files
+#### Graphic recordings
+#### Session notes
+#### Further links
+- Journal des Voyages at the BnF
+- other links
+
+### Reflections
+
+#### Overall
+Add summary of white paper in plain language here.
+
+#### Session 1
+Add something here.
+
+#### Session 2
+Add something here.
+
+#### Session 3
+Add something here.
+
+#### Session 4
+Add something here.
+
+#### Session 5
+Add something here.
+
+#### Session 6
+Add something here.
+
+#### Session 7
+Add something here.
+
+#### Session 8
+Add something here.
+
+### Associated activity
+
+#### Ethical visualization workflow
+We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: (https://kathep.github.io/ethics/)
+
+#### Ethical Data Visualization: Taming Treacherous Data
+We teach the method described above as well as how to navigate the concerns explored in this project in the course 'Ethical Data Visualization: Taming Treacherous Data'. This course was offered in 2018 and 2019 at the Digital Humanities Summer Institute (DHSI) at the University of Victoria, Vancouver Island, Canada, and in 2019 at DHDownunder at the University of Newcastle, New South Wales, Australia. See the [DHSI course content](https://github.com/cmchurch/DHSI-ethical-dataviz) and [DHDownunder course content](https://github.com/kathep/DHDownunder-ethical-dataviz) in these repositories.
 
 &nbsp;
 
@@ -183,55 +229,33 @@ Something goes here.
 
 -----------------------------
 
-##
-
-
-&nbsp;
------------------------------
 ## Future activities
 
 ### Visualizing Empire project
 
 Something here.
 
-### Ethical Visualization Workflow
+### Ethical Visualization for Impact
 
-This method is under regularly updated. It is a key activity of Katherine Hepworth's interdisciplinary research.
+This project is a method for ethically visualizing data. It grew out of .
 
 ### White paper
-
-### Project stages
-
-|Version    |Date   |Title   |
-|:---|:---|:---|
-| Version 3.1 | April 2020  | Ethical Visualization for Impact  |
-| [Version 3.0](ethical_visualization_3_0.md) | March 2020  | Ethical Visualization for Impact  |
-| [Version 2.1](ethical_visualization_2_1.md) | October 2019  | Ethical Visualization  |
-| [Version 2.0](ethical_visualization_2_0.md)   | October 2019  | Ethical Visualization  |
-| [Version 1.1](ethical_visualization_1_1.md)   | May 2019  | Ethical Visualization  |
-| [Version 1](ethical_visualization_1_0.md)   | December 2018  | Ethical Visualization Workflow  |
+Something here. Add link.
 
 &nbsp;
 -----------------------------
 
-## Reflections
+### Participate
 
-Something here.
-
-
-
-&nbsp;
------------------------------
-
-## Participate
-
-### Follow
+#### Follow
 You can follow development of this work by subscribing to Dr Katherine Hepworth's newsletter at https://broaderimpacts.substack.com.
 
-### Contribute
-If you'd like to contribute to the development of this work, please reach out at khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implmentation.
+#### Contribute
+If you'd like to contribute to the development of this work, please reach out at cchurch at unr dot edu or khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implementation.
 
 
 &nbsp;
+
 ------------------------------
-[Back to top](#Ethical-Visualization-in-the-Age-of-Big-Data)
+
+[Back to top](#ethical-visualization-in-the-age-of-big-data)
