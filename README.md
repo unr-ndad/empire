@@ -6,18 +6,19 @@
 ------------------------------
 ## About
 
-  #### A workshop to seek interdisciplinary expert perspectives on ethically and visually representing the historical place of misrepresented peoples and locales.
+#### A workshop to seek interdisciplinary expert perspectives on ethically and visually representing the historical place of misrepresented peoples and locales.
 
-  **Held on** 9–10 January, 2020  
-  **At** Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
-  Reno, Nevada, U.S.A.  
-  **Organized by**  [Katherine Hepworth](https://kathep.com) & [Christopher Church](http://www.christophermchurch.com/)
+**Held on** 9–10 January, 2020  
+**At** Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
+Reno, Nevada, U.S.A.  
+**Organized by**  [Katherine Hepworth](https://kathep.com) & [Christopher Church](http://www.christophermchurch.com/)
 
 ------------------------------
 ## Contents
 
 ### The workshop
-- [Subjects discussed](#subjects-discussed)
+- [Overview](#overview)
+- [Sessions](#sessions)
 - [Participants](#participants)
 - [Credits](#credits)
 
@@ -34,8 +35,11 @@
 ## The workshop
 ------------------------------
 
-## Subjects-discussed
-Download the program [pdf](link) here.
+### Overview
+- [Purpose](#purpose)
+- [Ethical data visualization](overview/1.md)
+- [Computational processing of French colonial texts](overview/2.md)
+
 
 ### Sessions
 1. [Scholarly framing — digital humanities & French colonial history](sessions/1.md)
