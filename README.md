@@ -187,7 +187,7 @@ All files are available by downloading the github repository. This includes au.
 ### Reflections
 
 #### Overall
-Add summary of white paper in plain language here.
+Add summary of white paper/interim report in plain language here.
 
 #### Session 1
 Add something here.
@@ -218,7 +218,7 @@ Add something here.
 #### Ethical visualization workflow
 We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: (https://kathep.github.io/ethics/)
 
-#### Ethical Data Visualization: Taming Treacherous Data
+#### Ethical Data Visualization: Taming Treacherous Data Course
 We teach the method described above as well as how to navigate the concerns explored in this project in the course 'Ethical Data Visualization: Taming Treacherous Data'. This course was offered in 2018 and 2019 at the Digital Humanities Summer Institute (DHSI) at the University of Victoria, Vancouver Island, Canada, and in 2019 at DHDownunder at the University of Newcastle, New South Wales, Australia. See the [DHSI course content](https://github.com/cmchurch/DHSI-ethical-dataviz) and [DHDownunder course content](https://github.com/kathep/DHDownunder-ethical-dataviz) in these repositories.
 
 &nbsp;
@@ -229,20 +229,17 @@ We teach the method described above as well as how to navigate the concerns expl
 
 -----------------------------
 
-## Future activities
+### Future activities
 
-### Visualizing Empire project
+#### Visualizing Empire project
 
 Something here.
 
-### Ethical Visualization for Impact
-
-This project is a method for ethically visualizing data. It grew out of .
-
-### White paper
+#### White paper
 Something here. Add link.
 
 &nbsp;
+
 -----------------------------
 
 ### Participate
