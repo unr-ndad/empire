@@ -6,15 +6,15 @@
 ------------------------------
 ## About
 
-#### A workshop to seek interdisciplinary expert perspectives on ethically and visually representing the historical place of misrepresented peoples and locales.
+  #### A workshop to seek interdisciplinary expert perspectives on ethically and visually representing the historical place of misrepresented peoples and locales.
 
-**Held on** 9–10 January, 2020  
-**At** Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
-Reno, Nevada, U.S.A.  
-**Organized by**  [Katherine Hepworth](https://kathep.com) & [Christopher Church](http://www.christophermchurch.com/)
+  **Held on** 9–10 January, 2020  
+  **At** Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
+  Reno, Nevada, U.S.A.  
+  **Organized by**  [Katherine Hepworth](https://kathep.com) & [Christopher Church](http://www.christophermchurch.com/)
 
 ------------------------------
-## Details
+## Contents
 
 ### The workshop
 - [Subjects discussed](#subjects-discussed)
@@ -23,7 +23,7 @@ Reno, Nevada, U.S.A.
 
 ### Documentation
 - [Dataset](#dataset)
-- [Documentation](#documentation)
+- [Files](#documentation)
 - [Reflections](#reflections)
 
 ### Coming up
@@ -32,13 +32,13 @@ Reno, Nevada, U.S.A.
 
 ------------------------------
 ## The workshop
------------------------------
+------------------------------
 
-## Program
+## Subjects-discussed
 Download the program [pdf](link) here.
 
 ### Sessions
-1. [Scholarly framing (digital humanities & French colonial history)](sessions/1.md)
+1. [Scholarly framing — digital humanities & French colonial history](sessions/1.md)
 2. [Metadata structure](sessions/2.md)
 3. [Natural language processing (NLP) workflow](sessions/3.md)
 4. [Domain adaptation (for early modern French)](sessins/4.md)
@@ -49,7 +49,6 @@ Download the program [pdf](link) here.
 
 &nbsp;
 -----------------------------
-
 ## Participants
 ![Visualizing empire workshop participants](images/visualizingempireparticipants2020.png)
 
@@ -73,7 +72,7 @@ Download the program [pdf](link) here.
     Swinburne University of Technology  
     Melbourne, Australia
 
-### Participants
+### Invited experts
 - [Charles Tshimanga-Kashama](https://www.unr.edu/history/faculty-staff/charles-tshimanga-kashama)  
     Associate Professor of History  
     Department of History  
@@ -122,7 +121,28 @@ Download the program [pdf](link) here.
     Reynolds School of Journalism  
     University of Nevada, Reno
 
+
+  -----------------------------
+  ## Credits
+
+  ### Citation
+  From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for Impact in the Sciences and Data Sciences", *HCII Conference 2020 Proceedings*.
+
+  ### Funding
+  The following institutions have supported development of this method.
+  - National Endowment of the Humanities Office of Digital Humanities, Award No. [HAA-266490-19](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266490-19)
+  - Reynolds School of Journalism, University of Nevada, Reno
+  - College of Liberal Arts, University of Nevada, Reno
+
+  ### Acknowledgements
+  Acknowledgement of previous versions can be found in the documentation for each one, listed below. In addition to previous contributions, I am grateful for the contributions, discussion, and feedback on this version from [Sage Cheng](https://www.accessnow.org/profile/sage-cheng/) at Access Now, Sonia Jalfin at [Sociopublico](http://sociopublico.com/en/us.php), [Max Frischknecht](https://maxfrischknecht.ch/) of Bern University of the Applied Arts, and [Georgia Bullen](https://simplysecure.org/who-we-are/georgia.html) of Simply Secure.
+
+  &nbsp;
+
+
 &nbsp;
+------------------------------
+## Documentation
 ------------------------------
 
 ## Dataset
@@ -153,23 +173,6 @@ Something goes here
 
 &nbsp;
 -----------------------------
-## Credits
-
-### Citation
-From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for Impact in the Sciences and Data Sciences", *HCII Conference 2020 Proceedings*.
-
-### Funding
-The following institutions have supported development of this method.
-- National Endowment of the Humanities Office of Digital Humanities, Award No. [HAA-266490-19](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266490-19)
-- Reynolds School of Journalism, University of Nevada, Reno
-- College of Liberal Arts, University of Nevada, Reno
-
-### Acknowledgements
-Acknowledgement of previous versions can be found in the documentation for each one, listed below. In addition to previous contributions, I am grateful for the contributions, discussion, and feedback on this version from [Sage Cheng](https://www.accessnow.org/profile/sage-cheng/) at Access Now, Sonia Jalfin at [Sociopublico](http://sociopublico.com/en/us.php), [Max Frischknecht](https://maxfrischknecht.ch/) of Bern University of the Applied Arts, and [Georgia Bullen](https://simplysecure.org/who-we-are/georgia.html) of Simply Secure.
-
-&nbsp;
------------------------------
-
 ## Coming up
 -----------------------------
 
