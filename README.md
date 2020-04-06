@@ -46,6 +46,18 @@ Reno, Nevada, U.S.A.
 - [Ethical data visualization](overview/1.md)
 - [Computational processing of French colonial texts](overview/2.md)
 
+#### Purpose
+This workshop unites top experts from relevant fields to address the conceptual and logistical challenges of visualizing French colonial historical text without reproducing their inherent ethnocentrism. To this end, the project will address two key issues:
+1. how to create ethical data visualizations—and their underlying forms of training and analysis—that grapple with inherent source biases; and
+2. how to computationally process non-modern, non-English languages for humanities research in a critically engaged way.
+
+This workshop will lay the foundations for:
+A. expanding the tools of distant reading and visualization to a broad range of historical sources in ways that attend to their cultural, geographic, and linguistic diversity; and
+B. identifying and preventing visual perpetuation of pernicious narratives about historical subjects that have persisted from the past into the present.
+
+&nbsp;
+
+------------------------------
 
 ### Sessions
 1. [Scholarly framing — digital humanities & French colonial history](sessions/1.md)
@@ -57,6 +69,9 @@ Reno, Nevada, U.S.A.
 7. [Adapting and integrating existing open source projects](sessions/7.md)
 8. [Input and output (i/o), ongoing maintenance & preservation](sessions/8.md)
 
+&nbsp;
+
+------------------------------
 
 ### Participants
 ![Visualizing empire workshop participants](images/visualizingempireparticipants2020.png)
@@ -129,6 +144,9 @@ Reno, Nevada, U.S.A.
     Reynolds School of Journalism  
     University of Nevada, Reno
 
+&nbsp;
+
+------------------------------
 
 ### Credits
 
@@ -150,9 +168,9 @@ In addition to the participants, this workshop was successful thanks to the cont
 ------------------------------
 
 ### Dataset
-Something goes here.
+From a technical standpoint, we have cleaned the ocr output for one of these corpora, reaching a high degree of accuracy, well above the standard found in most digital collections, and we have marked-up the text. While the data set is large enough to enable the training of machine learning algorithms, such as named-entity recognition (NER), essential to the analysis of large textual corpora, it is of a manageable size with high accuracy. As a continuous time-series, the corpora also allow for the exploration of how preoccupations changed over the eighteenth and nineteenth centuries. By performing “distant reading” on these “medium data”—too large for traditional reading, but small enough to be managed in a targeted and effective manner—we can unearth the epistemological narratives targeted at the reading public. With the goal of using machine learning to broaden critical engagement with the past, this project will provide guidelines and two key training datasets, the *ARTFL Encyclopédie* and the *Journal des Voyages*, for modeling and analyzing other eighteenth and nineteenth century French sources.
 
-### Formatted data
+#### Formatted data
 - [Add Link](link)
   Description goes here
 - [Add Link](link)
@@ -160,10 +178,10 @@ Something goes here.
 - [Add Link](link)
   Description goes here
 
-### Memorandum of understanding
+#### Memorandum of understanding
 Something goes here
 
-### Data processing notes
+#### Data processing notes
 The following table outlines the cleaning processes have been performed to arrive at the latest version of our *Journal des Voyages* dataset.
 
 |Version    |Date   |Note   |
@@ -172,14 +190,24 @@ The following table outlines the cleaning processes have been performed to arriv
 | [Version x.x](link)   | Add date  | Details go here  |
 | [Version x](link)   | Add date  | Data scraped from BnF holdings using ADD TOOL/METHOD |
 
+&nbsp;
+
+------------------------------
 
 ### Files
 All files are available by downloading the github repository. This includes audio files, briefing materials, presentation files, graphic recordings, and session notes. To browse, hear or see individual files, refer to the individual files in [session](#sessions) pages.
 
+&nbsp;
 
-#### Links
+------------------------------
+
+### Links
 - Journal des Voyages at the BnF
 - other links
+
+&nbsp;
+
+------------------------------
 
 ### Reflections
 
@@ -210,6 +238,10 @@ Add something here.
 #### Session 8
 Add something here.
 
+&nbsp;
+
+------------------------------
+
 ### Associated activity
 
 #### Ethical visualization workflow
@@ -239,6 +271,9 @@ Something here.
 #### White paper
 Something here. Add link.
 
+&nbsp;
+
+------------------------------
 
 ### Participate
 
@@ -246,7 +281,7 @@ Something here. Add link.
 You can follow development of this work by subscribing to Dr Katherine Hepworth's newsletter at https://broaderimpacts.substack.com.
 
 #### Contribute
-If you'd like to contribute to the development of this work, please reach out at cchurch at unr dot edu or khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implementation.
+We welcome communication, contributions, and thoughts on this work, particularly from people in the French diaspora. If you'd like to contribute to the development of this work, please reach out at cchurch at unr dot edu or khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implementation.
 
 
 &nbsp;
