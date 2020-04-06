@@ -1,9 +1,10 @@
-![graphic recording workshop overview](images/graphic-recording-intro.png)
 # Ethical Visualization in the Age of Big Data  
 ## Contemporary Cultural Implications of Pre-Twentieth-Century French Texts
 ### Planning Workshop Summary
+![graphic recording workshop overview](images/graphic-recording-intro.png)
 
 ------------------------------
+
 ## About
 
 #### A workshop to seek interdisciplinary expert perspectives on ethically and visually representing the historical place of misrepresented peoples and locales.
@@ -14,6 +15,7 @@ Reno, Nevada, U.S.A.
 **Organized by**  [Katherine Hepworth](https://kathep.com) & [Christopher Church](http://www.christophermchurch.com/)
 
 ------------------------------
+
 ## Contents
 
 ### The workshop
@@ -24,7 +26,7 @@ Reno, Nevada, U.S.A.
 
 ### Documentation
 - [Dataset](#dataset)
-- [Files](#documentation)
+- [Files](#files)
 - [Reflections](#reflections)
 
 ### Coming up
@@ -32,7 +34,9 @@ Reno, Nevada, U.S.A.
 - [Participate](#participate)
 
 ------------------------------
+
 ## The workshop
+
 ------------------------------
 
 ### Overview
@@ -68,13 +72,13 @@ Reno, Nevada, U.S.A.
     The Reynolds School of Journalism  
     University of Nevada, Reno
 
-### Advisor
+#### Advisor
 - **[Karel van der Waarde](http://graphicdesign-research.com/Karel/Home.html)**  
     Professor of Visual Communication  
     Swinburne University of Technology  
     Melbourne, Australia
 
-### Invited experts
+#### Invited experts
 - **[Charles Tshimanga-Kashama](https://www.unr.edu/history/faculty-staff/charles-tshimanga-kashama)**  
     Associate Professor of History  
     Department of History  
@@ -117,65 +121,66 @@ Reno, Nevada, U.S.A.
     University Libraries  
     University of Nevada, Reno  
 
-### Support staff
+#### Support staff
 - **[Aya Sato](https://twitter.com/dislifeofaya)**  
     Journalism senior  
     Reynolds School of Journalism  
     University of Nevada, Reno
 
 
-  -----------------------------
-  ## Credits
+### Credits
 
-  ### Citation
-  From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for Impact in the Sciences and Data Sciences", *HCII Conference 2020 Proceedings*.
+#### Funding
+The following institutions have provided support for this workshop and project.
+- National Endowment of the Humanities Office of Digital Humanities, Award No. [HAA-266490-19](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266490-19)
+- Reynolds School of Journalism, University of Nevada, Reno
+- College of Liberal Arts, University of Nevada, Reno
 
-  ### Funding
-  The following institutions have supported development of this method.
-  - National Endowment of the Humanities Office of Digital Humanities, Award No. [HAA-266490-19](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266490-19)
-  - Reynolds School of Journalism, University of Nevada, Reno
-  - College of Liberal Arts, University of Nevada, Reno
-
-  ### Acknowledgements
-  Acknowledgement of previous versions can be found in the documentation for each one, listed below. In addition to previous contributions, I am grateful for the contributions, discussion, and feedback on this version from [Sage Cheng](https://www.accessnow.org/profile/sage-cheng/) at Access Now, Sonia Jalfin at [Sociopublico](http://sociopublico.com/en/us.php), [Max Frischknecht](https://maxfrischknecht.ch/) of Bern University of the Applied Arts, and [Georgia Bullen](https://simplysecure.org/who-we-are/georgia.html) of Simply Secure.
-
-  &nbsp;
-
+#### Acknowledgements
+In addition to the participants, this workshop was successful thanks to the contributions of many people, including: [Mikki Johnson](https://www.linkedin.com/in/mikki-johnson-4708b084/), Administrative Assistant in the Department of History, and the staff at [Beaujolais Bistro](https://beaujolaisbistro.com/) and [Perenn Bakery](https://www.perennbakery.com/).
 
 &nbsp;
+
 ------------------------------
+
 ## Documentation
+
 ------------------------------
 
-## Dataset
-Something goes here
+### Dataset
+Something goes here.
 
-
-### Formatted data
-- [Link](link)
+#### Formatted data
+- [Add Link](link)
   Description goes here
-- [Link](link)
+- [Add Link](link)
   Description goes here
-- [Link](link)
+- [Add Link](link)
   Description goes here
 
 ### Memorandum of understanding
 Something goes here
 
 ### Data processing notes
+The following table outlines the cleaning processes have been performed to arrive at the latest version of our *Journal des Voyages* dataset.
+
 |Version    |Date   |Note   |
 |:---|:---|:---|
-| Version 3.1 | April 2020  | Ethical Visualization for Impact  |
-| [Version 3.0](ethical_visualization_3_0.md) | March 2020  | Ethical Visualization for Impact  |
-| [Version 2.1](ethical_visualization_2_1.md) | October 2019  | Ethical Visualization  |
-| [Version 2.0](ethical_visualization_2_0.md)   | October 2019  | Ethical Visualization  |
-| [Version 1.1](ethical_visualization_1_1.md)   | May 2019  | Ethical Visualization  |
-| [Version 1](ethical_visualization_1_0.md)   | December 2018  | Ethical Visualization Workflow  |
+| [Version x.x](link)   | Add date  | Details go here  |
+| [Version x.x](link)   | Add date  | Details go here  |
+| [Version x](link)   | Add date  | Data scraped from BnF holdings using ADD TOOL/METHOD |
+
+
+## Files
+Something goes here.
 
 
 &nbsp;
+
 -----------------------------
+
 ## Coming up
+
 -----------------------------
 
 ##
