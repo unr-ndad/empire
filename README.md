@@ -52,8 +52,8 @@ This workshop unites top experts from relevant fields to address the conceptual 
 2. how to computationally process non-modern, non-English languages for humanities research in a critically engaged way.
 
 This workshop will lay the foundations for:
-a. expanding the tools of distant reading and visualization to a broad range of historical sources in ways that attend to their cultural, geographic, and linguistic diversity; and
-b. identifying and preventing visual perpetuation of pernicious narratives about historical subjects that have persisted from the past into the present.
+- expanding the tools of distant reading and visualization to a broad range of historical sources in ways that attend to their cultural, geographic, and linguistic diversity; and
+- identifying and preventing visual perpetuation of pernicious narratives about historical subjects that have persisted from the past into the present.
 
 &nbsp;
 
