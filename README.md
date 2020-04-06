@@ -27,10 +27,11 @@ Reno, Nevada, U.S.A.
 ### Documentation
 - [Dataset](#dataset)
 - [Files](#files)
+- [Links](#links)
 - [Reflections](#reflections)
-- [Associated activity](#)
+- [Associated activity](#associated-activity)
 
-### Coming up
+### Next steps
 - [Future activities](#future-activities)
 - [Participate](#participate)
 
@@ -173,14 +174,10 @@ The following table outlines the cleaning processes have been performed to arriv
 
 
 ### Files
-All files are available by downloading the github repository. This includes au.
+All files are available by downloading the github repository. This includes audio files, briefing materials, presentation files, graphic recordings, and session notes. To browse, hear or see individual files, refer to the individual files in [session](#sessions) pages.
 
-#### Briefing materials
-#### Audio files
-#### Presentation files
-#### Graphic recordings
-#### Session notes
-#### Further links
+
+#### Links
 - Journal des Voyages at the BnF
 - other links
 
@@ -218,14 +215,18 @@ Add something here.
 #### Ethical visualization workflow
 We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: (https://kathep.github.io/ethics/)
 
-#### Ethical Data Visualization: Taming Treacherous Data Course
+#### Ethical Data Visualization: Taming Treacherous Data course
 We teach the method described above as well as how to navigate the concerns explored in this project in the course 'Ethical Data Visualization: Taming Treacherous Data'. This course was offered in 2018 and 2019 at the Digital Humanities Summer Institute (DHSI) at the University of Victoria, Vancouver Island, Canada, and in 2019 at DHDownunder at the University of Newcastle, New South Wales, Australia. See the [DHSI course content](https://github.com/cmchurch/DHSI-ethical-dataviz) and [DHDownunder course content](https://github.com/kathep/DHDownunder-ethical-dataviz) in these repositories.
+
+#### Racism in the Machine paper
+We wrote a paper on work prepatory to this workshop, it is available here:
+Katherine Hepworth and Christopher Church. 2018. [“Racism in the Machine: Visualization Ethics in Digital Humanities Projects.”](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html) *Digital Humanities Quarterly* 12:4.
 
 &nbsp;
 
 -----------------------------
 
-## Coming up
+## Next steps
 
 -----------------------------
 
@@ -238,9 +239,6 @@ Something here.
 #### White paper
 Something here. Add link.
 
-&nbsp;
-
------------------------------
 
 ### Participate
 
