@@ -77,7 +77,7 @@ Reno, Nevada, U.S.A.
     Melbourne, Australia
 
 ### Invited experts
-- [Charles Tshimanga-Kashama](https://www.unr.edu/history/faculty-staff/charles-tshimanga-kashama)  
+- **[Charles Tshimanga-Kashama](https://www.unr.edu/history/faculty-staff/charles-tshimanga-kashama)**  
     Associate Professor of History  
     Department of History  
     University of Nevada, Reno  
