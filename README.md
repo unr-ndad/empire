@@ -52,8 +52,8 @@ This workshop unites top experts from relevant fields to address the conceptual 
 2. how to computationally process non-modern, non-English languages for humanities research in a critically engaged way.
 
 This workshop will lay the foundations for:
-A. expanding the tools of distant reading and visualization to a broad range of historical sources in ways that attend to their cultural, geographic, and linguistic diversity; and
-B. identifying and preventing visual perpetuation of pernicious narratives about historical subjects that have persisted from the past into the present.
+a. expanding the tools of distant reading and visualization to a broad range of historical sources in ways that attend to their cultural, geographic, and linguistic diversity; and
+b. identifying and preventing visual perpetuation of pernicious narratives about historical subjects that have persisted from the past into the present.
 
 &nbsp;
 
@@ -196,8 +196,6 @@ The following table outlines the cleaning processes have been performed to arriv
 | [Version x](link)   | Add date  | Data scraped from BnF holdings using ADD TOOL/METHOD |
 
 &nbsp;
-
-------------------------------
 
 ### Files
 All files are available by downloading the github repository. This includes audio files, briefing materials, presentation files, graphic recordings, and session notes. To browse, hear or see individual files, refer to the individual files in [session](#sessions) pages.
