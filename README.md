@@ -51,19 +51,17 @@ Reno, Nevada, U.S.A.
 7. [Adapting and integrating existing open source projects](sessions/7.md)
 8. [Input and output (i/o), ongoing maintenance & preservation](sessions/8.md)
 
-&nbsp;
------------------------------
-## Participants
+
+### Participants
 ![Visualizing empire workshop participants](images/visualizingempireparticipants2020.png)
 
-
-### Organizers
-- **Christopher M. Church**  
+#### Organizers
+- **[Christopher M. Church](http://www.christophermchurch.com/)**  
     Assistant Professor of Digital History  
     Co-Director, Nevada Center for Data and Design  
     Department of History  
     University of Nevada, Reno
-- **Katherine Hepworth**  
+- **[Katherine Hepworth](https://kathep.com)**  
     Associate Professor of Visual Journalism  
     Co-Director, Nevada Center for Data and Design  
     Research Director, Visualizing Science Project  
@@ -71,7 +69,7 @@ Reno, Nevada, U.S.A.
     University of Nevada, Reno
 
 ### Advisor
-- **Karel van der Waarde**  
+- **[Karel van der Waarde](http://graphicdesign-research.com/Karel/Home.html)**  
     Professor of Visual Communication  
     Swinburne University of Technology  
     Melbourne, Australia
@@ -81,46 +79,46 @@ Reno, Nevada, U.S.A.
     Associate Professor of History  
     Department of History  
     University of Nevada, Reno  
-- [Katherine McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough)  
+- **[Katherine McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough)**  
     Senior Research Associate  
     The Alan Turing Institute  
     British Library  
     London, United Kingdom  
-- **Ludovic Moncla**  
+- **[Ludovic Moncla](https://lmoncla.ddns.net/)**  
     Maître de conférences in computer science  
     Computer Science Laboratory for Image Processing and Information Systems (LIRIS)
     National Institute of Applied Sciences (insa)  
     Lyon, France  
-- **David Bamman**  
+- **[David Bamman](http://people.ischool.berkeley.edu/~dbamman/)**  
     Assistant Professor  
     Information School  
     University of California  
     Berkeley, U.S.A.  
-- **Mary Elings**  
+- **[Mary Elings](https://www.linkedin.com/in/mary-elings-9b244211/)**  
     Assistant Director and Head of Technical Services
     The Bancroft Library  
     University of California  
     Berkeley, U.S.A.  
-- **Claire Gardent**  
+- **[Claire Gardent](https://members.loria.fr/CGardent/)**  
     CNRS/LORIA  
     Université de Lorraine  
     Nancy, France  
-- **Doris Kosminsky**  
+- **[Doris Kosminsky](https://labvis.eba.ufrj.br/en/homepage/)**  
     Professor  
     School of Fine Arts  
     Universidade Federal do Rio de Janeiro  
     Rio de Janeiro, Brazil  
-- **Teresa Schultz**  
+- **[Teresa Schultz](https://library.unr.edu/schultz-teresa)**  
     Assistant Professor  
     University Libraries  
     University of Nevada, Reno  
-- **Elena Azadbakht**  
+- **[Elena Azadbakht](https://library.unr.edu/azadbakht-elena)**  
     Health Sciences Librarian  
     University Libraries  
     University of Nevada, Reno  
 
 ### Support staff
-- **Aya Sato**  
+- **[Aya Sato](https://twitter.com/dislifeofaya)**  
     Journalism senior  
     Reynolds School of Journalism  
     University of Nevada, Reno
