@@ -228,6 +228,5 @@ If you'd like to contribute to the development of this work, please reach out at
 
 
 &nbsp;
------------------------------
-
+------------------------------
 [Back to top](#Ethical-Visualization-in-the-Age-of-Big-Data)
