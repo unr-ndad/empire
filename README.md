@@ -1,20 +1,6 @@
-# Test Ethical Visualization in the Age of Big Data  
-## Contemporary Cultural Implications of Pre-Twentieth-Century French Texts
 ### Planning Workshop Summary
 ![graphic recording workshop overview](images/graphic-recording-intro.png)
 
-------------------------------
-
-## About
-
-#### A workshop to seek interdisciplinary expert perspectives on ethically and visually representing the historical place of misrepresented peoples and locales.
-
-**Held on** 9–10 January, 2020  
-**At** Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
-Reno, Nevada, U.S.A.  
-**Organized by**  [Katherine Hepworth](https://kathep.com) & [Christopher Church](http://www.christophermchurch.com/)
-
-------------------------------
 
 ## Contents
 
