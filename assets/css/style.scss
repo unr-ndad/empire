@@ -1,0 +1,269 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+$font-stack: 'Open Sans', sans-serif;
+$primary-color: #f15e3d;
+$secondary-color: #0cb3b6;
+
+/** HEADING **/
+$orange: #f15e3d;
+$orange-dark: #c3674d;
+$orange-darkest: #965949;
+$taupe: #727668;
+$blue: #097b7d;
+$blue-test: #0a8a8c;
+$blue-dark: #38817c;
+$blue-aqua: #0cb3b6;
+$blue-aqua50: #9ed3d6;
+$cream: #fefef8;
+$grey: #414042;
+$grey70: #7b7c7f;
+$grey50: #9d9fa2;
+
+/** HEADING **/
+body {
+  font: 100% $font-stack;
+  color: $taupe;
+  line-height: 20px;
+  font-size: 14px;
+  font-weight: 400;
+  background-color: #FFFFFF;
+  padding: 0 0 10px 0;
+  }
+
+p {
+    margin-block-start: 0em;
+    margin-block-end: 0.5em;
+}
+
+
+
+/*dt:before, header li:before {
+    content: '';
+    float: left;
+    display: list-item;
+    list-style-type: disc;
+    list-style-position: inside;
+    width: 20px;
+    margin-left: -20px;
+  }*/
+
+/** HEADING **/
+
+h1 {
+  color: $blue;
+  font-size: 30px;
+  font-weight:800;
+  line-height: 40px;
+  padding: 20px 0 0 0;
+  margin: 0 0 20px;
+}
+
+h2 {
+  color: $taupe;
+  font-size: 25px;
+  font-weight:700;
+  line-height: 35px;
+  padding: 40px 0 0 0;
+  margin: 0 0 0px;
+}
+
+h3 {
+  color: $blue;
+  font-size: 20px;
+  font-weight:300;
+  line-height: 25px;
+  padding: 20px 0 0 0;
+  margin: 0;
+}
+
+h4, h5, h6 {
+  color: $blue-dark;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 10px 0 0 0;
+  margin: 0;
+}
+
+strong {
+  color: $blue-dark;
+  font-weight: 600;
+}
+
+ul {
+  padding: 0;
+  padding-inline-start: 15px;
+}
+
+li {
+  list-style-type: disc;
+}
+
+
+a {
+  color: $orange-dark;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+a:visited {
+          color: $orange-dark;
+          font-weight: 400;
+          text-decoration: none;
+}
+
+a:active  {
+          color: $orange;
+          font-weight: 400;
+          text-decoration: none;
+}
+
+a:hover {
+          color: $orange;
+          font-weight: 400;
+          text-decoration: none;
+}
+
+hr {
+    height: 1px;
+    background-color: $blue-aqua50;
+    border: none;
+    margin: 0;
+    }
+
+img {
+  padding: 20px 0 0 0;
+}
+
+.wrapper {
+  width:880px;
+}
+
+section {
+  width: 600px;
+  padding-bottom: 20px;
+}
+
+/** NAV PANE LEFT **/
+header {
+  a {
+    color: $blue;
+    text-decoration: none;
+    }
+  h3 {
+    color: $taupe;
+  }
+  h3.tagline {
+    color: $blue-dark;
+    font-weight: 400;
+    padding: 20px 0 50px 0;
+    }
+}
+
+header ul.toc {
+    list-style: none;
+    height: auto ;
+    padding: 0;
+    background: none;
+    border: 0px;
+    width: inherit;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 1px 0 1px 0 solid $blue-aqua50;
+}
+
+header ul a {
+    line-height: 20px;
+    font-size: 14px;
+    color: $blue;
+    border-radius: 0px;
+    display: block;
+    text-align: left;
+    padding-top: 10px;
+    height:inherit;
+}
+
+header ul {
+    list-style: none;
+    height: auto;
+    padding: 0;
+    background: none;
+    border-radius: 0px;
+    border: 0px;
+    width: inherit;
+}
+
+
+header ul.toc a, header ul.toc a:visited  {
+    display: inline;
+    text-decoration: none;
+    font-weight: 400;
+    color: $blue;
+}
+
+header ul.toc a:hover {
+    display: inline;
+    font-weight: 400;
+    text-decoration: none;
+    color: $blue-aqua;
+}
+
+header li {
+    float: left;
+    border-bottom: 1px solid $blue-aqua50;
+    border-right: 0px;
+    height: auto;
+}
+
+header dt, header ul.toc li {
+    list-style: none;
+    padding: 5px 0 5px 0;
+    /*margin: 1px 0 1px 0 solid $blue-aqua50;*/
+    width: 100%;
+    list-style-type: none;
+}
+
+header h1 {
+  padding: 10px 0 0 0;
+}
+
+header h1 a, header h1 a:visited {
+    color: $blue;
+    font-weight: 300;
+    font-size: 35px;
+    font-weight: 300;
+    line-height: 45px;
+    text-decoration: none;
+    }
+
+header h1 a:hover, header h1 a:active {
+    color: $blue-aqua;
+    font-weight: 300;
+    text-decoration: none;
+    }
+
+header {
+  top: 25px;
+  width: 240px;
+}
+
+th {
+  text-align: left;
+  color: $blue-dark;
+  font-weight: 600;
+}
+
+th, td {
+  border-bottom: 1px solid $blue-aqua50;
+  padding: 5px 10px 5px 0;
+}
+
+footer {
+  bottom: 30px;
+}
