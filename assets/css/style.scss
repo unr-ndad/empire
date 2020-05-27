@@ -168,6 +168,8 @@ header {
   h3 {
     color: $base-color;
   }
+}
+
   h3.tagline {
     color: $blue-dark;
     font-weight: 400;
@@ -175,7 +177,7 @@ header {
     line-height: 20px;
     padding: 10px 0 10px 0;
     }
-}
+
 
 header ul.toc {
     list-style: none;
@@ -250,7 +252,7 @@ header h1 a, header h1 a:visited {
     color: $blue;
     font-size: 23px;
     font-weight: 300;
-    line-height: 35px;
+    line-height: 30px;
     text-decoration: none;
     }
 
@@ -261,7 +263,7 @@ header h1 a:hover, header h1 a:active {
     }
 
 header {
-  top: 25px;
+  top: 20px;
   width: 240px;
 }
 
