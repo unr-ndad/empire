@@ -1,4 +1,4 @@
-# Ethical Visualization in the Age of Big Data  
+# Test Ethical Visualization in the Age of Big Data  
 ## Contemporary Cultural Implications of Pre-Twentieth-Century French Texts
 ### Planning Workshop Summary
 ![graphic recording workshop overview](images/graphic-recording-intro.png)
