@@ -25,7 +25,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
       <h3 id="contents">Contents</h3>
-        {% include toc.html html=content h_min=3 h_max=2 skipNoIDs=true class="toc" %}
+        {% include toc.html html=content h_min=2 h_max=3 skipNoIDs=true class="toc" %}
 
 
       </header>
@@ -35,10 +35,10 @@
 
       </section>
       <footer>
-        <p><small><strong>Held on</strong> 9–10 January, 2020</small></p>
-        <p><small><strong>At</strong> Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
-        Reno, Nevada, U.S.A.</small></p>
-        <p><small><strong>Organized by</strong> <a href="https://kathep.com">Katherine Hepworth</a> & <a href="http://www.christophermchurch.com/">Christopher Church</a></small></p>
+        <p><small><strong>Held on</strong> 9–10 January, 2020</small><br />
+        <small><strong>At</strong> Lincoln Hall, [University of Nevada, Reno](https://www.unr.edu) 1664 N. Virginia St
+        Reno, Nevada, U.S.A.</small><br />
+        <small><strong>Organized by</strong> <a href="https://kathep.com">Katherine Hepworth</a> & <a href="http://www.christophermchurch.com/">Christopher Church</a></small></p>
 
         {% if site.github.is_project_page %}
         <p>This site is maintained by <a href="https://kathep.com">Katherine Hepworth</a></p>
