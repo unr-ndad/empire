@@ -1,4 +1,3 @@
-### Planning Workshop Summary
 ![graphic recording workshop overview](images/graphic-recording-intro.png)
 
 
