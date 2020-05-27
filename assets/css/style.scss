@@ -7,27 +7,26 @@
 
 $font-stack: 'Open Sans', sans-serif;
 $primary-color: #f15e3d;
-$secondary-color: #0cb3b6;
+$secondary-color: #45596A;
+$base-color: #7B94A6;
 
 /** HEADING **/
+$Dark-Slate-Gray: #45596A;
+$steel-blue: #4E8FC2;
+$Light-Slate-Gray: #7B94A6;
 $orange: #f15e3d;
 $orange-dark: #c3674d;
 $orange-darkest: #965949;
-$taupe: #727668;
-$blue: #097b7d;
-$blue-test: #0a8a8c;
+$background-color: #727668;
+$blue: #4E8FC2;
 $blue-dark: #38817c;
 $blue-aqua: #0cb3b6;
 $blue-aqua50: #9ed3d6;
-$cream: #fefef8;
-$grey: #414042;
-$grey70: #7b7c7f;
-$grey50: #9d9fa2;
 
 /** HEADING **/
 body {
   font: 100% $font-stack;
-  color: $taupe;
+  color: $base-color;
   line-height: 20px;
   font-size: 14px;
   font-weight: 400;
@@ -64,7 +63,7 @@ h1 {
 }
 
 h2 {
-  color: $taupe;
+  color: $base-color;
   font-size: 25px;
   font-weight:700;
   line-height: 35px;
@@ -167,7 +166,7 @@ header {
     text-decoration: none;
     }
   h3 {
-    color: $taupe;
+    color: $base-color;
   }
   h3.tagline {
     color: $blue-dark;
