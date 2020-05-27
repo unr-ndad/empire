@@ -1,27 +1,12 @@
 ![graphic recording workshop overview](images/graphic-recording-intro.png)
 
-## Contents
+## The workshop
 
-### The workshop
+### Sections
 - [Overview](#overview)
 - [Sessions](#sessions)
 - [Participants](#participants)
 - [Credits](#credits)
-
-### Documentation
-- [Dataset](#dataset)
-- [Files](#files)
-- [Links](#links)
-- [Reflections](#reflections)
-- [Related scholarly activity](#related-scholarly-activity)
-
-### Next steps
-- [Future activities](#future-activities)
-- [Participate](#participate)
-
-------------------------------
-
-## The workshop
 
 ------------------------------
 
@@ -35,7 +20,7 @@ This workshop unites top experts from relevant fields to address the conceptual 
 1. how to create ethical data visualizations—and their underlying forms of training and analysis—that grapple with inherent source biases; and
 2. how to computationally process non-modern, non-English languages for humanities research in a critically engaged way.
 
-This workshop will lay the foundations for:
+This workshop lays the foundations for:
 - expanding the tools of distant reading and visualization to a broad range of historical sources in ways that attend to their cultural, geographic, and linguistic diversity; and
 - identifying and preventing visual perpetuation of pernicious narratives about historical subjects that have persisted from the past into the present.
 
@@ -154,7 +139,12 @@ In addition to the participants and supporting instituions, this workshop was su
 
 ## Documentation
 
-------------------------------
+### Documentation
+- [Dataset](#dataset)
+- [Files](#files)
+- [Links](#links)
+- [Reflections](#reflections)
+- [Related scholarly activity](#related-scholarly-activity)
 
 ### Dataset
 From a technical standpoint, we have cleaned the ocr output for one of these corpora, reaching a high degree of accuracy, well above the standard found in most digital collections, and we have marked-up the text. While the data set is large enough to enable the training of machine learning algorithms, such as named-entity recognition (NER), essential to the analysis of large textual corpora, it is of a manageable size with high accuracy. As a continuous time-series, the corpora also allow for the exploration of how preoccupations changed over the eighteenth and nineteenth centuries. By performing “distant reading” on these “medium data”—too large for traditional reading, but small enough to be managed in a targeted and effective manner—we can unearth the epistemological narratives targeted at the reading public. With the goal of using machine learning to broaden critical engagement with the past, this project will provide guidelines and two key training datasets, the *ARTFL Encyclopédie* and the *Journal des Voyages*, for modeling and analyzing other eighteenth and nineteenth century French sources.
@@ -251,7 +241,10 @@ From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for I
 
 ## Next steps
 
------------------------------
+### Next steps
+- [Future activities](#future-activities)
+- [Participate](#participate)
+
 
 ### Future activities
 
@@ -279,4 +272,4 @@ We welcome communication, contributions, and thoughts on this work, particularly
 
 ------------------------------
 
-[Back to top](#ethical-visualization-in-the-age-of-big-data)
+[Back to top](#the-workshop)
