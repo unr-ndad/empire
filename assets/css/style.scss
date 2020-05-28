@@ -226,14 +226,14 @@ header dt, header ul.toc li {
 header h1 {
   padding: 0;
   margin: 0;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 300;
   line-height: 30px;
 }
 
 header h1 a, header h1 a:visited {
     color: $blue;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 300;
     line-height: 30px;
     text-decoration: none;
@@ -321,6 +321,14 @@ li ol li {
   list-style-type: lower-latin;
 }
 
+/* SMALLER THAN 480PX */
+
+@media print, screen and (max-width: 480px) {
+  .toc {
+      width: 99%;
+  }
+}
+
 /* 720PX - 960PX */
 
 @media print, screen and (max-width: 960px) {
@@ -356,13 +364,5 @@ li ol li {
 
   header ul, header p.view {
       position: static;
-  }
-}
-
-/* SMALLER THAN 480PX */
-
-@media print, screen and (max-width: 480px) {
-  .toc {
-      width: 99%;
   }
 }
