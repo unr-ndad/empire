@@ -293,6 +293,7 @@ section ul {
   -webkit-column-gap: 20px;
   -moz-column-gap: 20px;
   column-gap: 20px;
+  orphans: 6;
 }
 
 section ol {
