@@ -304,6 +304,14 @@ section ul li:nth-last-of-type(3) {
   break-after: avoid;
 }
 
+section ul li:last-child {
+  break-before: avoid;
+}
+
+section ul li:first-child {
+  break-after: avoid;
+}
+
 section ol {
   padding: 0;
   padding-inline-start: 15px;
@@ -313,7 +321,6 @@ section ul li:before {
     content: '';
     float: left;
     display: list-item;
-    list-style-type: disc;
     list-style-position: inside;
     width: 10px;
     margin-left: -10px;
