@@ -37,8 +37,13 @@ body {
 p {
     margin-block-start: 0em;
     margin-block-end: 0.5em;
+    -webkit-columns: 2 250px;
+    -moz-columns: 2 250px;
+    columns: 2 200px;
+    -webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
 }
-
 
 
 /*dt:before, header li:before {
@@ -279,6 +284,12 @@ footer {
 section ul {
   padding: 0;
   padding-inline-start: 15px;
+  -webkit-columns: 2 250px;
+  -moz-columns: 2 250px;
+  columns: 2 200px;
+  -webkit-column-gap: 20px;
+  -moz-column-gap: 20px;
+  column-gap: 20px;
 }
 
 section ol {
