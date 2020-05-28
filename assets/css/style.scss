@@ -313,6 +313,7 @@ section ul li:before {
     content: '';
     float: left;
     display: list-item;
+    list-style-type: disc;
     list-style-position: inside;
     width: 10px;
     margin-left: -10px;
@@ -339,7 +340,7 @@ ol li {
   list-style-type: decimal;
 }
 
-li ol li {
+ul li ol li {
   list-style-type: lower-latin;
 }
 
