@@ -275,13 +275,18 @@ footer {
 /* NEW STUFF TO ADD TO ETHICS TOO */
 /**/
 
-h2 p, h3 p, h4 p {
-    -webkit-columns: 2 250px;
-    -moz-columns: 2 250px;
-    columns: 2 200px;
-    -webkit-column-gap: 20px;
-    -moz-column-gap: 20px;
-    column-gap: 20px;
+h1, h2, h3, h4
+{
+    & + p
+    {
+    -webkit-columns: 2 270px;
+    -moz-columns: 2 270px;
+    columns: 2 270px;
+    -webkit-column-gap: 40px;
+    -moz-column-gap: 40px;
+    column-gap: 40px;
+    orphans: 4;
+    }
 }
 
 section ul {
@@ -293,7 +298,6 @@ section ul {
   -webkit-column-gap: 20px;
   -moz-column-gap: 20px;
   column-gap: 20px;
-  orphans: 6;
 }
 
 section ol {
@@ -365,7 +369,7 @@ li ol li {
   #contents {
       position: absolute;
       width: 263px;
-      right: 50px;
+      right: 45px;
       top: 35px;
     }
 
