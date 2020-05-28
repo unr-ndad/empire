@@ -300,6 +300,10 @@ section ul {
   column-gap: 20px;
 }
 
+section ul li:nth-last-of-type(3) {
+  break-after: avoid;
+}
+
 section ol {
   padding: 0;
   padding-inline-start: 15px;
