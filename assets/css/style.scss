@@ -57,7 +57,7 @@ h1 {
   color: $blue;
   font-size: 30px;
   font-weight:800;
-  line-height: 40px;
+  line-height: 30px;
   padding: 20px 0 0 0;
   margin: 0 0 20px;
 }
@@ -226,14 +226,14 @@ header dt, header ul.toc li {
 header h1 {
   padding: 0;
   margin: 0;
-  font-size: 23px;
+  font-size: 30px;
   font-weight: 300;
   line-height: 30px;
 }
 
 header h1 a, header h1 a:visited {
     color: $blue;
-    font-size: 23px;
+    font-size: 30px;
     font-weight: 300;
     line-height: 30px;
     text-decoration: none;
@@ -323,47 +323,46 @@ li ol li {
 
 /* SMALLER THAN 480PX */
 
-@media print, screen and (max-width: 480px)
-.toc {
-    width: 99%;
+@media print, screen and (max-width: 480px) {
+  .toc {
+      width: 99%;
+  }
 }
 
 /* 480PX - 720PX */
 
-@media print, screen and (max-width: 720px)
-header {
-    padding: 0;
-}
-@media print, screen and (max-width: 720px)
-header ul, header p.view {
-    position: static;
+@media print, screen and (max-width: 720px) {
+  header {
+      padding: 0;
+  }
+
+  header ul, header p.view {
+      position: static;
+  }
 }
 
 /* 720PX - 960PX */
 
-@media print, screen and (max-width: 960px)
-header, section, footer {
-    float: none;
-    position: static;
-    width: auto;
-}
+@media print, screen and (max-width: 960px) {
+  header, section, footer {
+      float: none;
+      position: static;
+      width: auto;
+  }
 
-@media print, screen and (max-width: 960px)
-header {
-    padding-right: 320px;
-}
+  header {
+      padding-right: 320px;
+  }
 
-@media print, screen and (max-width: 960px)
-header ul {
-    position: absolute;
-    right: 50px;
-    top: 52px;
-}
-
-@media print, screen and (max-width: 960px)
-section {
-    border: 1px solid $blue-aqua50;
-    border-width: 1px 0;
-    padding: 20px 0;
-    margin: 0 0 20px;
+  header ul {
+      position: absolute;
+      right: 50px;
+      top: 52px;
+  }
+  section {
+      border: 1px solid $blue-aqua50;
+      border-width: 1px 0;
+      padding: 20px 0;
+      margin: 0 0 20px;
+  }
 }
