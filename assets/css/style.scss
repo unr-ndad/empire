@@ -345,7 +345,7 @@ li ol li {
   header ul {
       position: absolute;
       right: 50px;
-      top: 52px;
+      top: 50px;
   }
   section {
       border: 1px solid $blue-aqua50;
@@ -364,5 +364,10 @@ li ol li {
 
   header ul, header p.view {
       position: static;
+  }
+  h3#contents {
+      position: absolute;
+      right: 50px;
+      top: 35px;
   }
 }
