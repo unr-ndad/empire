@@ -1,6 +1,6 @@
+## The workshop
 ![graphic recording workshop overview](images/graphic-recording-intro.png)
 
-## The workshop
 
 ### Sections
 - [Overview](#overview)
