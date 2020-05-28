@@ -360,6 +360,13 @@ li ol li {
       right: 50px;
       top: 50px;
   }
+
+  #contents {
+      position: absolute;
+      right: 50px;
+      top: 35px;
+    }
+
   section {
       border: 1px solid $blue-aqua50;
       border-width: 1px 0;
@@ -374,13 +381,7 @@ li ol li {
   header {
       padding: 0;
   }
-
   header ul, header p.view {
       position: static;
-  }
-  #contents {
-      position: absolute;
-      right: 50px;
-      top: 35px;
   }
 }
