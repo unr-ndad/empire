@@ -37,12 +37,6 @@ body {
 p {
     margin-block-start: 0em;
     margin-block-end: 0.5em;
-    -webkit-columns: 2 250px;
-    -moz-columns: 2 250px;
-    columns: 2 200px;
-    -webkit-column-gap: 20px;
-    -moz-column-gap: 20px;
-    column-gap: 20px;
 }
 
 
@@ -281,6 +275,15 @@ footer {
 /* NEW STUFF TO ADD TO ETHICS TOO */
 /**/
 
+h2 p, h3 p, h4 p {
+    -webkit-columns: 2 250px;
+    -moz-columns: 2 250px;
+    columns: 2 200px;
+    -webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+}
+
 section ul {
   padding: 0;
   padding-inline-start: 15px;
@@ -313,7 +316,7 @@ section ul ol:before {
     list-style-position: inside;
     width: 20px;
     margin-left: -20px;
-  } */
+  }
 
 ul li {
   list-style-type: disc;
