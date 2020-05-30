@@ -4,6 +4,7 @@
 **Date of activities:** September 1, 2019 to August 31, 2020  
 **By** Christopher Church and Katherine Hepworth  
 
+
 ## Project activities
 
 ### Project overview
@@ -13,6 +14,7 @@ This project advanced work toward generating ethical visualizations of historica
 Over a two-day period, we hosted eight conference sessions, each addressing a key aspect of the project’s implementation plan: 1) scholarly framing; 2) metadata structure; 3) natural language processing workflow; 4) domain adaptation for early modern French; 5) data visualization ethics; 6) interface design and usability; 7) adapting open-source projects; and 8) long-term preservation. Each session was led by a domain-area expert, assisted by a scholar in an adjacent field, and was 75 minutes in length, with a 30 minute break between sessions for less formal conversations. There were two working lunches to continue conversations started during the formal sessions, as well as a working dinner to do the same.
 The bulk of the first day of sessions addressed issues raised by the historical content, while the second dealt with the methodologies of data visualization and project management. Domain area experts from history, fine arts and design, journalism, computer science, machine learning, and the libraries contributed to the project.
 A hired undergraduate assistant recorded all sessions and took graphical notes, which were then posted to the online Zenodo and GitHub along with the scholars’ slide decks.
+
 
 ### Changes/Alterations to Work Plan
 
@@ -44,6 +46,7 @@ One key takeaway from the discussion was the delineation of visualization for di
 The technical concerns that surfaced during the workshop concerned how to select and implement appropriate metadata standards, the challenges of both creating custom visualization tools and using off-the-shelf packages, how to determine which processes were most suitable for coding named descriptors in the xml text.
 Over the course of the planning workshop, it became clear that the Journal des Voyages dataset was not as clean as promised by the third-party vendor hired prior to the start of the grant period. Moreover, the planning stage emphasized the necessity of dataset annotating in order to create a so-called gold standard set against which researchers can test the accuracy of machine learning algorithms. In the next stage of the project, the dataset must be further cleaned and annotated.
 The workshop also highlighted the need to analyze the photographs, drawings, and other non-textual elements in the periodicals for key information. It became clear that the project would need higher resolution scans of images, necessitating international collaboration with donor libraries to make new scans of original documents as microform is a highly lossy medium. The next stage of the project will use higher resolution images from the National French Library, which has recently released higher resolution scans of many of its collections.
+
 ###Project management and collaborative revelations
 During the planning workshop, the benefit of having diverse scholars conversing with one another was readily apparent. While it proved difficult to bring together colonial scholars with computer scientists, and to achieve representation of diverse ethnic, racial, national, and gender backgrounds, especially with the logistical concerns of long-distance international travel, doing so helped uncover blindspots often overlooked in digital, data-driven projects. For instance, it became clear that humanist inquiry and historical data push the boundaries of settled science in the domains of computer engineering and machine learning. Additionally, colonial scholars recognized the potential provided by digital analytical tools, but raised key concerns about the damage that could be done with the tools of aggregation and visualization at one’s disposal.
 Finally, we discussed the broad project management question plaguing the digital humanities: if you build it, will they come? During the final sessions of the planning workshop, we discussed how much time and effort it takes to bring a project online, but it may serve a limited audience and only remain operational for a brief duration. The brevity of operation is caused by a host of factors falling under the domain of software maintenance and preservation, including, but not limited to, updates to the platform, security patches, and eventual planned or unplanned obsolescence of the technologies used. To mitigate these concerns, we concluded to ensure that key findings are accessible in “stable” textual formats and that the data be preserved in open standards so that it can be repurposed as technologies change.

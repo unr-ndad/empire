@@ -324,13 +324,14 @@ section ul {
 
 section ul li:before {
     content: '';
-    display: list-item;
+    float: left;
+    display: inline-block;
     list-style-position: inside;
     font-size: 10px;
+    height: 10px;
     width: 10px;
     margin-left: -10px;
     vertical-align: text-top;
-    display: inline-block;
   }
 
 section ul ol:before {
