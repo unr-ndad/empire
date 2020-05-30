@@ -1,7 +1,8 @@
-# Visualizing Empire White Paper/Final Report
+# Visualizing Empire White Paper
 
-**Award No.:** HAA-266490-19
-**Date of activities:** September 1, 2019 to August 31, 2020
+**Award No.:** HAA-266490-19  
+**Date of activities:** September 1, 2019 to August 31, 2020  
+**By** Christopher Church and Katherine Hepworth  
 
 ## Project activities
 
