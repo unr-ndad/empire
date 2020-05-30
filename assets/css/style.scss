@@ -328,7 +328,7 @@ section ul {
 section ul li:before {
     content: '';
     float: left;
-    display: inline-block;
+    display: list-item;
     list-style-position: inside;
     font-size: 10px;
     height: 10px;
@@ -352,6 +352,7 @@ ul {
 
 section ul li {
   list-style-type: disc;
+  display: flow-root;
   -webkit-column-break-inside: avoid;
           page-break-inside: avoid;
                break-inside: avoid;
