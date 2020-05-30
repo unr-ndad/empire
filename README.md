@@ -181,12 +181,6 @@ All files are available by downloading the github repository. This includes audi
 
 ------------------------------
 
-### Reflections
-
-&nbsp;
-
-------------------------------
-
 ## Long term impact
 This workshop, and intellectual activity leading up to it, have resulted in several related projects. The materials for each of these activities are made publicly available via Github repositories under open source licenses, and in some cases, as Github Pages websites. The main long-term impact of these activities is preparation for the next stage of the project, namely creating a visualization to explore the Journal des Voyages corpus.
 

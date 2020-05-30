@@ -78,13 +78,13 @@ The workshop initiated collaborative relationships between the University of Nev
 ### Project decisions for next steps across domains
 See below separate pages containing full details of each session.
 
-1. [Scholarly framing — digital humanities & French colonial history](sessions/1.md)
-2. [Metadata structure](sessions/2.md)
-3. [Natural language processing (NLP) workflow](sessions/3.md)
-4. [Domain adaptation (for early modern French)](sessins/4.md)
-5. [Ethical data visualization](sessions/5.md)
-6. [Mapping and interface design usability](sessions/6.md)
-7. [Adapting and integrating existing open source projects](sessions/7.md)
+1. [Scholarly framing — digital humanities & French colonial history](1.md)
+2. [Metadata structure](2.md)
+3. [Natural language processing (NLP) workflow](3.md)
+4. [Domain adaptation (for early modern French)](4.md)
+5. [Ethical data visualization](5.md)
+6. [Mapping and interface design usability](6.md)
+7. [Adapting and integrating existing open source projects](7.md)
 8. [Input and output (i/o), ongoing maintenance & preservation](sessions/8.md)
 
 &nbsp;
