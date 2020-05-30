@@ -276,7 +276,10 @@ footer {
 /**/
 
 p img {
-
+    -webkit-columns: 1 100%;
+    -moz-columns: 1 100%;
+    columns: 1 100%;
+    width: 100%;
 }
 
 h1, h2, h3, h4
