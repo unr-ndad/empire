@@ -326,8 +326,9 @@ section ul li:before {
     content: '';
     display: list-item;
     list-style-position: inside;
-    width: 5px;
+    width: 0px;
     font-size: 10px;
+    margin-left: -20px;
     vertical-align: text-top;
     display: inline-block;
   }
@@ -346,7 +347,7 @@ ul {
 }
 
 ul li {
-  list-style-type: none;
+  list-style-type: disc;
 }
 
 
@@ -388,9 +389,9 @@ ul li ol li {
   -webkit-columns: 2 250px;
   -moz-columns: 2 250px;
   columns: 2 200px;
-  -webkit-column-gap: 20px;
-  -moz-column-gap: 20px;
-  column-gap: 20px;
+  -webkit-column-gap: 40px;
+  -moz-column-gap: 40px;
+  column-gap: 40px;
   }
 
 
