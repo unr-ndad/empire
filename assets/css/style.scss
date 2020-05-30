@@ -275,6 +275,10 @@ footer {
 /* NEW STUFF TO ADD TO ETHICS TOO */
 /**/
 
+p img {
+
+}
+
 h1, h2, h3, h4
 {
     & + p
@@ -285,12 +289,13 @@ h1, h2, h3, h4
     -webkit-column-gap: 40px;
     -moz-column-gap: 40px;
     column-gap: 40px;
-    orphans: 4;
+    orphans: 9;
     }
 }
 
 section ul {
   padding: 0;
+  list-style-type: none;
   padding-inline-start: 15px;
   -webkit-columns: 2 250px;
   -moz-columns: 2 250px;
@@ -298,6 +303,10 @@ section ul {
   -webkit-column-gap: 20px;
   -moz-column-gap: 20px;
   column-gap: 20px;
+}
+
+section ul li:nth-of-type(3) {
+  break-before: avoid;
 }
 
 section ul li:nth-last-of-type(3) {
@@ -317,13 +326,20 @@ section ol {
   padding-inline-start: 15px;
 }
 
+section ul {
+  padding: 0;
+  padding-inline-start: 10px;
+}
+
+
 section ul li:before {
     content: '';
-    float: left;
     display: list-item;
     list-style-position: inside;
-    width: 10px;
-    margin-left: -10px;
+    width: 5px;
+    font-size: 10px;
+    vertical-align: text-top;
+    display: inline-block;
   }
 
 section ul ol:before {
@@ -335,9 +351,14 @@ section ul ol:before {
     margin-left: -20px;
   }
 
-/* ul li {
-  list-style-type: disc;
-} */
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  list-style-type: none;
+}
+
 
 ul li ul li {
   list-style-type: circle;
@@ -373,9 +394,13 @@ ul li ol li {
   }
 
   header ul {
-      position: absolute;
-      right: 50px;
-      top: 70px;
+      position: relative;
+  -webkit-columns: 2 250px;
+  -moz-columns: 2 250px;
+  columns: 2 200px;
+  -webkit-column-gap: 20px;
+  -moz-column-gap: 20px;
+  column-gap: 20px;
   }
 
   #contents {

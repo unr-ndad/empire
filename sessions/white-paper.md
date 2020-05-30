@@ -18,8 +18,10 @@ A hired undergraduate assistant recorded all sessions and took graphical notes, 
 
 #### Omissions and changes to key personnel
 Several of our proposed participants were unable to attend the event on the proposed date and time. We replaced some key personnel with suitable equivalent experts in their fields.
+
 #### Changes to subjects discussed
 On the recommendation of our invited experts, a new topic ‘NLP workflow’ was added to our workshop discussion schedule and two of the previously proposed topics were folded into one discussion topic: ‘‘input and output (i/o), ongoing maintenance, and preservation’.
+
 #### Changes to data management plan
 Due to changes in personnel and structural developments at the UNR Library System, as well as recommendations made during the planning workshop itself, the data management plan had to be altered. Instead of despoting the planning workshop materials into the ScholarWorks repository at UNR, we were advised to use Zenodo, which integrates with GitHub, provides a unique document identifier, and is more public-facing than the university’s internal data repository.
 
@@ -53,6 +55,7 @@ Finally, we discussed the broad project management question plaguing the digital
 ## Audiences
 The primary audience for the planning workshop included domain area experts in history, fine arts and design, journalism, computer science, machine learning, and library science. As this was a planning workshop for future stages of the project, data are not yet available with respect to the geographical reach of the planning stage’s findings. These findings are available online, but they are in the service of creating a larger public-facing project on the visualization of the French imperial imagination that has yet to be created.
 That said, the workshop made clear the fruitfulness of interdisciplinary conversations, particularly between the computer sciences and the humanities. By having colonial scholars and people of diverse gender, racial, sexual, and cultural backgrounds participate in discussions about data visualization, the planning workshop uncovered blindspots in the “algorithmic” disciplines with respect to the potential for harm of data aggregation and visualization, while at the same time unearthing new possibilities for scholarly inquiry that includes the perspectives of colonized, marginalized, and subjugated peoples.
+
 
 &nbsp;
 
