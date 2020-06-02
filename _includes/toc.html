@@ -52,7 +52,6 @@
         {% assign headerLevel = node | replace: '"', '' | slice: 0, 1 | times: 1 %}
 
         {% if headerLevel < minHeader or headerLevel > maxHeader %}
-      <h3 >Conditional Contents heading display 9 </h3>
             {% continue %}
         {% endif %}
 
@@ -97,7 +96,7 @@
             {% capture list_item %}{{ anchor_body }}{% endcapture %}
         {% endif %}
 
-        {% capture my_toc %}{{ my_toc }}
+        {% capture my_toc %}{{ my_toc | prepend:       '<h3 >Conditional Contents heading display 9 </h3>' }}
 {{ space }}{{ listModifier }} {{ listItemClass }} {{ list_item }}{% if include.anchor_class %}{:.{{ include.anchor_class }}}{% endif %}{% endcapture %}
     {% endfor %}
 
