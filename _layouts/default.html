@@ -27,9 +27,20 @@
       <h3 id="contents">Contents</h3>
         {% include toc.html html=content h_min=2 h_max=2 skipNoIDs=true class="toc" %}
 
-        {% if page.content contains "h2" %}
-      <h3 id="contents">Conditional Contents heading display 2</h3>
+        {% if page.content contains "<h2>" %}
+      <h3 >Conditional Contents heading display 2</h3>
         {% endif %}
+
+
+        {% if page.content | 'page.content contains "h2"' %}
+      <h3 >Conditional Contents heading display 3</h3>
+        {% endif %}
+
+
+        {% if page.content | 'page.content contains "h2"' %}
+      <h3 >Conditional Contents heading display 4</h3>
+        {% endif %}
+
 
 
       </header>
