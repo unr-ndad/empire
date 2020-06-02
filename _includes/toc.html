@@ -96,7 +96,7 @@
             {% capture list_item %}{{ anchor_body }}{% endcapture %}
         {% endif %}
 
-        {% capture my_toc %}{{ my_toc | prepend:       '<h3 >Conditional Contents heading display 9 </h3>' }}
+        {% capture my_toc %}{{ my_toc }}
 {{ space }}{{ listModifier }} {{ listItemClass }} {{ list_item }}{% if include.anchor_class %}{:.{{ include.anchor_class }}}{% endif %}{% endcapture %}
     {% endfor %}
 
