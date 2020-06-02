@@ -96,12 +96,12 @@
             {% capture list_item %}{{ anchor_body }}{% endcapture %}
         {% endif %}
 
-        {% capture my_toc %}<h3>Contents test</h3>{{ my_toc }}
+        {% capture my_toc %}{{ my_toc }}
 {{ space }}{{ listModifier }} {{ listItemClass }} {{ list_item }}{% if include.anchor_class %}{:.{{ include.anchor_class }}}{% endif %}{% endcapture %}
     {% endfor %}
 
     {% if include.class and include.class != blank %}
-        {% capture my_toc %}{:.{{ include.class }}}
+        <h3>Contents test</h3>{% capture my_toc %}{:.{{ include.class }}}
 {{ my_toc | lstrip }}{% endcapture %}
     {% endif %}
 
