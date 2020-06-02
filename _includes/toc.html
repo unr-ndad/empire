@@ -52,6 +52,7 @@
         {% assign headerLevel = node | replace: '"', '' | slice: 0, 1 | times: 1 %}
 
         {% if headerLevel < minHeader or headerLevel > maxHeader %}
+      <h3 >Conditional Contents heading display 9 </h3>
             {% continue %}
         {% endif %}
 
