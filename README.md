@@ -12,6 +12,7 @@
 
 ------------------------------
 ### Purpose
+
 This workshop unites top experts from relevant fields to address the conceptual and logistical challenges of visualizing French colonial historical text without reproducing their inherent ethnocentrism. To this end, the project will address two key issues:
 1. how to create ethical data visualizations—and their underlying forms of training and analysis—that grapple with inherent source biases; and
 2. how to computationally process non-modern, non-English languages for humanities research in a critically engaged way.

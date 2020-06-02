@@ -96,7 +96,7 @@
             {% capture list_item %}{{ anchor_body }}{% endcapture %}
         {% endif %}
 
-        {% capture my_toc %}{{ my_toc }}
+        {% capture my_toc %}{{ my_toc }}<h3>Contents test</h3>
 {{ space }}{{ listModifier }} {{ listItemClass }} {{ list_item }}{% if include.anchor_class %}{:.{{ include.anchor_class }}}{% endif %}{% endcapture %}
     {% endfor %}
 
