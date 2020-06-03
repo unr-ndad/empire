@@ -192,14 +192,14 @@ header ul {
     width: inherit;
 }
 
-header ul.toc a, header ul.toc a:visited  {
+header ul a, header ul a:visited  {
     display: inline;
     text-decoration: none;
     font-weight: 400;
     color: $blue;
 }
 
-header ul.toc a:hover {
+header ul a:hover {
     display: inline;
     font-weight: 400;
     text-decoration: none;
@@ -214,7 +214,7 @@ header li {
     display: inline;
 }
 
-header dt, header ul.toc li {
+header dt, header ul li {
     list-style: none;
     padding: 5px 0 5px 0;
     /*margin: 1px 0 1px 0 solid $blue-aqua50;*/
