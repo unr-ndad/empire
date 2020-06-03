@@ -101,8 +101,8 @@
     {% endfor %}
 
     {% if include.class and include.class != blank %}
-        <h3>Contents test</h3>{% capture my_toc %}{:.{{ include.class }}}
-{{ my_toc | lstrip }}{% endcapture %}
+{% capture my_toc %}{:.{{ include.class }}}
+        <h3>Contents test</h3>{{ my_toc | lstrip }}{% endcapture %}
     {% endif %}
 
     {% if include.id %}
