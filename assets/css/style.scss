@@ -207,10 +207,11 @@ header ul.toc a:hover {
 }
 
 header li {
-    float: left;
+    float: inherit;
     border-bottom: 1px solid $blue-aqua50;
     border-right: 0px;
     height: auto;
+    display: inline;
 }
 
 header dt, header ul.toc li {
