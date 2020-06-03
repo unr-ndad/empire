@@ -24,15 +24,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-      <h3 id="contents">Contents</h3>
+      <h3 id="contents">Contents_old</h3>
         {% include toc.html html=content h_min=2 h_max=2 skipNoIDs=true class="toc" %}
-
-        {% if page.content | 'page.content contains "h2"' %}
-      <h3 >Conditional Contents heading display 3</h3>
-        {% else %}
-        &nbsp;
-        {% endif %}
-
 
       </header>
       <section>
