@@ -197,13 +197,6 @@ header ul.toc a, header ul.toc a:visited  {
     color: $base-color;
 }
 
-header ul a, header ul a:visited  {
-    display: inline;
-    text-decoration: none;
-    font-weight: 300;
-    color: $base-color;
-}
-
 header ul a:hover, header ul a:active  {
     display: inline;
     text-decoration: none;
@@ -211,6 +204,12 @@ header ul a:hover, header ul a:active  {
     color: $base-color;
 }
 
+header ul a, header ul a:visited  {
+    display: inline;
+    text-decoration: none;
+    font-weight: 300;
+    color: $base-color;
+}
 
 header.toc ul a:hover, header.toc ul a:active {
     display: inline;
