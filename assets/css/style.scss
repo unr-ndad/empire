@@ -174,13 +174,10 @@ header ul.toc {
 header ul a {
     line-height: 20px;
     font-size: 14px;
-    color: $blue;
     border-radius: 0px;
-    display: block;
     text-align: left;
     padding-top: 10px;
-    height:inherit;
-}
+    height: inherit;
 
 header ul {
     list-style: none;
@@ -192,11 +189,11 @@ header ul {
     width: inherit;
 }
 
-header ul a, header ul a:visited  {
+header ul.toc a, header ul.toc a:visited  {
     display: inline;
     text-decoration: none;
-    font-weight: 400;
-    color: $blue;
+    font-weight: 300;
+    color: #727668;
 }
 
 header ul a:hover {
@@ -205,6 +202,7 @@ header ul a:hover {
     text-decoration: none;
     color: $blue-aqua;
 }
+
 
 header li {
     float: inherit;

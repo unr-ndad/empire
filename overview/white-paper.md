@@ -123,7 +123,7 @@ The grant period produced several different products, foremost among them a comp
 The award also contributed to the drafting of a peer-reviewed paper that will be submitted to Digital Scholarship in the Humanities outlining a method for computationally processing non-modern, non- English languages for humanities research in a critically engaged way.
 
 #### Github repository
-All materials from the planning workshop have been collected into [this online repository](), accessible via GitHub and deposited at Zenodo with a document object identifier. These materials include recordings of all discussions and copies of all slide decks from the planning workshop itself, as well as a summary of the key findings from the grant period.
+All materials from the planning workshop have been collected into [this online repository]({{ site.github.repository_url }}), accessible via GitHub and deposited at Zenodo with a document object identifier. These materials include recordings of all discussions and copies of all slide decks from the planning workshop itself, as well as a summary of the key findings from the grant period.
 
 #### *Journal des Voyages* dataset
 They also include the dataset of the Journal des Voyages corpus produced through a combination of OCR scanning with keyed re-entry. Alongside the *Encyclopedie* dataset hosted by Stanford University, these data will ultimately be used to create a training model for natural language processing and named-entity recognition in non-modern French.

@@ -125,9 +125,9 @@ This workshop was made possible by the generosity of:
 #### Acknowledgements
 In addition to the participants and supporting instituions, this workshop was successful thanks to the contributions of many people, including:
 - [Mikki Johnson](https://www.linkedin.com/in/mikki-johnson-4708b084/), Department of History, University of Nevada, Reno
-- Mark Higgins, Facilities Management, University of Nevada, Reno
-- Sally Echeto and Barbara Trainor, Reynolds School of Journalism, University of Nevada, Reno
-- Fatima and Catherine Leland, Silver and Blue Catering, University of Nevada, Reno
+- [Mark Higgins](https://www.linkedin.com/in/mark-higgins-65300271/), Facilities Management, University of Nevada, Reno
+- [Sally Echeto](https://www.unr.edu/journalism/faculty-and-staff/directory/echeto-sally) and [Barbara Trainor](https://www.unr.edu/journalism/faculty-and-staff/directory/colbert-trainor-barbara), Reynolds School of Journalism, University of Nevada, Reno
+- Fatima and [Catherine Leland](https://www.linkedin.com/in/catherine-leland-70060aa/), Silver and Blue Catering, University of Nevada, Reno
 - The staff at [Beaujolais Bistro](https://beaujolaisbistro.com/) and [Perenn Bakery](https://www.perennbakery.com/).
 
 &nbsp;
@@ -138,7 +138,7 @@ In addition to the participants and supporting instituions, this workshop was su
 - [Dataset](#dataset)
 - [Files](#files)
 - [Links](#links)
-- [White paper/Final report](sessions/white-paper.md)
+- [White paper/Final report](overview/white-paper.md)
 
 ### Dataset
 From a technical standpoint, we have cleaned the ocr output for one of these corpora, reaching a high degree of accuracy, well above the standard found in most digital collections, and we have marked-up the text. While the data set is large enough to enable the training of machine learning algorithms, such as named-entity recognition (NER), essential to the analysis of large textual corpora, it is of a manageable size with high accuracy. As a continuous time-series, the corpora also allow for the exploration of how preoccupations changed over the eighteenth and nineteenth centuries. By performing “distant reading” on these “medium data”—too large for traditional reading, but small enough to be managed in a targeted and effective manner—we can unearth the epistemological narratives targeted at the reading public. With the goal of using machine learning to broaden critical engagement with the past, this project will provide guidelines and two key training datasets, the *ARTFL Encyclopédie* and the *Journal des Voyages*, for modeling and analyzing other eighteenth and nineteenth century French sources.
@@ -159,23 +159,23 @@ The following table outlines the cleaning processes have been performed to arriv
 
 |Version    |Date   |Note   |
 |:---|:---|:---|
-| [Version x.x](link)   | Add date  | Details go here  |
-| [Version x.x](link)   | Add date  | Details go here  |
-| [Version x](link)   | Add date  | Data scraped from BnF holdings using ADD TOOL/METHOD |
+| [Version 0.3]   | 2020  | Add details here.  |
+| [Version 0.2]   | 2017  | Data cleaning performed by ADD COMPANY NAME.  |
+| [Version 0.1]   | 2016  | Data scraped from BnF holdings using ADD TOOL/METHOD. Data cleaned using ADD TOOLS/METHOD. |
 
 &nbsp;
 
 ------------------------------
 
 ### Files
-All files are available by downloading the github repository. This includes audio files, briefing materials, presentation files, graphic recordings, and session notes. To browse, hear or see individual files, refer to the individual files in [session](#sessions) pages.
+All files are available by downloading the [github repository]({{ site.github.repository_url }}). This includes audio files, briefing materials, presentation files, graphic recordings, and session notes. To browse, hear or see individual files, refer to the individual files in [session](#sessions) pages.
 
 &nbsp;
 
 ------------------------------
 
 ### Links
-- Journal des Voyages at the BnF
+- [Journal des Voyages at the BnF](https://gallica.bnf.fr/ark:/12148/cb34446531j/date.r=journal+des+voyages.langES?lang=EN)
 - other links
 
 &nbsp;
