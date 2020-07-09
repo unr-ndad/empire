@@ -194,21 +194,29 @@ header ul.toc a, header ul.toc a:visited  {
     display: inline;
     text-decoration: none;
     font-weight: 300;
-    color: $Dark-Slate-Gray;
+    color: $base-color;
 }
 
-header ul.toc a:visited  {
+header ul a, header ul a:visited  {
     display: inline;
     text-decoration: none;
     font-weight: 300;
-    color: $Dark-Slate-Gray;
+    color: $base-color;
 }
+
+header ul a:hover, header ul a:active  {
+    display: inline;
+    text-decoration: none;
+    font-weight: 400;
+    color: $base-color;
+}
+
 
 header.toc ul a:hover, header.toc ul a:active {
     display: inline;
     font-weight: 400;
     text-decoration: none;
-    color: $Dark-Slate-Gray;
+    color: $base-color;
 }
 
 
