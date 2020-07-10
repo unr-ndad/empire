@@ -12,12 +12,13 @@
 
 ------------------------------
 ### Purpose
-
-This workshop unites top experts from relevant fields to address the conceptual and logistical challenges of visualizing French colonial historical text without reproducing their inherent ethnocentrism. To this end, the project will address two key issues:
+#### Visualizing Empire Project, Stage 1
+This workshop is the consensus decision-making first stage of a digital humanities project ethically visualizing the French cultural imagination, called Visualizing Empire. To this end, it unites top experts from relevant fields to address the conceptual and logistical challenges of visualizing French colonial historical text without reproducing their inherent ethnocentrism. To this end, the workshop will address two key issues:
 1. how to create ethical data visualizations—and their underlying forms of training and analysis—that grapple with inherent source biases; and
 2. how to computationally process non-modern, non-English languages for humanities research in a critically engaged way.
 
 This workshop lays the foundations for:
+- using machine learning to broaden critical engagement with the past
 - expanding the tools of distant reading and visualization to a broad range of historical sources in ways that attend to their cultural, geographic, and linguistic diversity; and
 - identifying and preventing visual perpetuation of pernicious narratives about historical subjects that have persisted from the past into the present.
 
@@ -141,15 +142,9 @@ In addition to the participants and supporting instituions, this workshop was su
 - [White paper/Final report](overview/white-paper.md)
 
 ### Dataset
-From a technical standpoint, we have cleaned the ocr output for one of these corpora, reaching a high degree of accuracy, well above the standard found in most digital collections, and we have marked-up the text. While the data set is large enough to enable the training of machine learning algorithms, such as named-entity recognition (NER), essential to the analysis of large textual corpora, it is of a manageable size with high accuracy. As a continuous time-series, the corpora also allow for the exploration of how preoccupations changed over the eighteenth and nineteenth centuries. By performing “distant reading” on these “medium data”—too large for traditional reading, but small enough to be managed in a targeted and effective manner—we can unearth the epistemological narratives targeted at the reading public. With the goal of using machine learning to broaden critical engagement with the past, this project will provide guidelines and two key training datasets, the *ARTFL Encyclopédie* and the *Journal des Voyages*, for modeling and analyzing other eighteenth and nineteenth century French sources.
+Since the beginning of this project, we have intended to share the work of the dataset harvested from the *Journal des Voyages* in its present state, before further work has been completed to make it into a ready-to-use corpus. However, several ethical concerns about this were raised at the workshop, due to the problematic nature of much of the content (including racist and sexist slurs, dehumanizing descriptions etc). We aim to balance our dual desires to do minimal harm, and to be as transparent as reasonably possible. Therefore, we welcome enquiries about using the dataset. However, we request that prior to your request, you read and sign the Memorandum of Understanding, and attach a scanned copy to an email to us at .
 
-#### Formatted data
-- [Add Link](link)
-  Description goes here
-- [Add Link](link)
-  Description goes here
-- [Add Link](link)
-  Description goes here
+From a technical standpoint, we have cleaned the OCR output for one of these corpora, reaching a high degree of accuracy, well above the standard found in most digital collections, and we have marked-up the text. While the data set is large enough to enable the training of machine learning algorithms, such as named-entity recognition (NER), essential to the analysis of large textual corpora, it is of a manageable size with high accuracy. As a continuous time-series, the corpora also allow for the exploration of how preoccupations changed over the eighteenth and nineteenth centuries. By performing “distant reading” on these “medium data” — too large for traditional reading, but small enough to be managed in a targeted and effective manner — we can unearth the epistemological narratives targeted at the reading public. With the goal of using machine learning to broaden critical engagement with the past, this project will provide guidelines and two key training datasets, the *ARTFL Encyclopédie* and the *Journal des Voyages*, for modeling and analyzing other eighteenth and nineteenth century French sources.
 
 #### Memorandum of understanding
 Something goes here
@@ -185,22 +180,24 @@ All files are available by downloading the [github repository]({{ site.github.re
 ## Long term impact
 This workshop, and intellectual activity leading up to it, have resulted in several related projects. The materials for each of these activities are made publicly available via Github repositories under open source licenses, and in some cases, as Github Pages websites. The main long-term impact of these activities is preparation for the next stage of the project, namely creating a visualization to explore the Journal des Voyages corpus.
 
-### Ethical visualization workflow
+### Method: Ethical visualization workflow
 We have also done extensive work on a prototype ethical visualization workflow, tested with present day materials from the humanities and the sciences. The workshop will allow adaptation of this workflow for ethical visualization of historical textual sources and non-English text mining. For the latest development of this work, see: <https://kathep.github.io/ethics/>
 
-### Ethical Data Visualization: Taming Treacherous Data course
+### Teaching: Ethical Data Visualization: Taming Treacherous Data course
 We teach the method described above as well as how to navigate the concerns explored in this project in the course 'Ethical Data Visualization: Taming Treacherous Data'. This course was offered in 2018 and 2019 at the Digital Humanities Summer Institute (DHSI) at the University of Victoria, Vancouver Island, Canada, and in 2019 at DHDownunder at the University of Newcastle, New South Wales, Australia. See the [DHSI course content](https://github.com/cmchurch/DHSI-ethical-dataviz) and [DHDownunder course content](https://github.com/kathep/DHDownunder-ethical-dataviz) in these repositories.
 
-### Racism in the Machine paper
+### Paper 1: Racism in the Machine
 We wrote a paper on work preparatory to this workshop, it is available here:
 Katherine Hepworth and Christopher Church. 2018. [“Racism in the Machine: Visualization Ethics in Digital Humanities Projects.”](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html) *Digital Humanities Quarterly* 12:4.
 
-### Make Me Care paper
+### Paper 2:Make Me Care
 This paper incorporates some considerations explored at the workshop, and applies them to an expanded view of ethical visualization, beyond the digital humanities.
 From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for Impact in the Sciences and Data Sciences", *HCII Conference 2020 Proceedings*.
 
 ### Additional long term impact
-The additional long-term impacts of these activities are that: 1) approximately 70 scholars have been trained in our considered approach to ethical visualization; 2) several government organizations, startups, and research groups are currently using the Ethical Visualization for Impact method, greatly expanding the scope and reach of our project beyond what we expected.
+The additional long-term impacts of these activities are that, to date:
+1. approximately 70 scholars have been trained in our considered approach to ethical visualization;
+2. several government organizations, startups, and research groups are currently using the Ethical Visualization method, greatly expanding the scope and reach of our project beyond what we expected.
 
 &nbsp;
 
@@ -208,19 +205,16 @@ The additional long-term impacts of these activities are that: 1) approximately 
 
 ## Award products
 
-#### Visualizing Empire project
+### Visualizing Empire project
 The grant period produced several different products, foremost among them a comprehensive plan for future project stages that takes into account the advice from the diverse range of scholars participating in the planning workshop.
 
-#### Paper on process REPLACE WITH PAPER NAME
-The award also contributed to the drafting of a peer-reviewed paper that will be submitted to Digital Scholarship in the Humanities outlining a method for computationally processing non-modern, non- English languages for humanities research in a critically engaged way.
-
-#### Github repository
+### Github repository
 All materials from the planning workshop have been collected into [this online repository](https://github.com/unr-ndad/empire), accessible via GitHub and deposited at Zenodo with a document object identifier. These materials include recordings of all discussions and copies of all slide decks from the planning workshop itself, as well as a summary of the key findings from the grant period.
 
-#### *Journal des Voyages* dataset
+### *Journal des Voyages* dataset
 They also include the dataset of the Journal des Voyages corpus produced through a combination of OCR scanning with keyed re-entry. Alongside the *Encyclopedie* dataset hosted by Stanford University, these data will ultimately be used to create a training model for natural language processing and named-entity recognition in non-modern French.
 
-#### White paper
+### White paper
 See the full white paper [here](sessions/white-paper.md).
 
 &nbsp;
@@ -228,20 +222,24 @@ See the full white paper [here](sessions/white-paper.md).
 ------------------------------
 ## Future activities
 
-#### Visualizing Empire website
+### Visualizing Empire website
 A digital humanities project that seeks to ethically visualize the French historical imagination using cartographic and network visualizations of events contained within the *Journal des Voyages* corpus.
 
 #### *Journal des Voyages* corpus
 This dataset will ultimately be refined and cleaned further, using ethical visualization principles, to create a complete corpus. This final corpus will be made publicly available.
 
+#### Paper on process REPLACE WITH PAPER NAME
+The award also contributed to the drafting of a peer-reviewed paper that will be submitted to Digital Scholarship in the Humanities outlining a method for computationally processing non-modern, non- English languages for humanities research in a critically engaged way.
+
+
+
 ### Participate
 
 #### Follow
-You can follow development of this work by subscribing to DO WE WANT TO MAKE A NEWSLETTER???
+You can follow development of this work by subscribing to updates at [our newsletter](https://vizempire.substack.com/).
 
 #### Contribute
-We welcome communication, contributions, and thoughts on this work, particularly from people in the French diaspora. If you'd like to contribute to the development of this work, please reach out at cchurch at unr dot edu or khepworth at unr dot edu. Referrals to other projects, literature, and methods that may be relevant are welcome, as well as suggestions for improvement or other modes of implementation.
-
+We welcome communication, contributions, and thoughts on this work, particularly from people in the French diaspora. If you'd like to contribute to the development of this work, please join the [vizempire google group](vizempire@googlegroups.com). We welcome referrals to other projects, literature, and methods that may be relevant, as well as suggestions for improvement or other modes of implementation.
 
 &nbsp;
 

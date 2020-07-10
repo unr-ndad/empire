@@ -59,13 +59,14 @@ Finally, we discussed the broad project management question plaguing the digital
 The primary audience for the planning workshop included domain area experts in history, fine arts and design, journalism, computer science, machine learning, and library science. As this was a planning workshop for future stages of the project, data are not yet available with respect to the geographical reach of the planning stage’s findings. These findings are available online, but they are in the service of creating a larger public-facing project on the visualization of the French imperial imagination that has yet to be created.
 That said, the workshop made clear the fruitfulness of interdisciplinary conversations, particularly between the computer sciences and the humanities. By having colonial scholars and people of diverse gender, racial, sexual, and cultural backgrounds participate in discussions about data visualization, the planning workshop uncovered blindspots in the “algorithmic” disciplines with respect to the potential for harm of data aggregation and visualization, while at the same time unearthing new possibilities for scholarly inquiry that includes the perspectives of colonized, marginalized, and subjugated peoples.
 
-
 &nbsp;
 
 -----------------------------
 
 ## Evaluation
 The planning workshop was in itself an evaluation of our visualization project’s intellectual merits, practicability, appropriateness of its scope and audiences, and technical considerations. Collectively, the workshop participants verified that the project was considered important, relevant to academic communities, and feasible. The question of which open source tools might be adapted for use on the project was not sufficiently resolved, and will need to be pursued in the next stage of the project. In terms of evaluating our proposed activity, the most interesting outcome was that several expert participants raised questions about the necessity and/or dominance of a cartographic visualization in our proposed next stage visualization project. Instead, they suggested other visualization types might offer additional insights, such as network charts.
+
+&nbsp;
 
 ------------------------------
 
@@ -119,11 +120,11 @@ The additional long-term impacts of these activities are that: 1) approximately 
 #### Visualizing Empire project
 The grant period produced several different products, foremost among them a comprehensive plan for future project stages that takes into account the advice from the diverse range of scholars participating in the planning workshop.
 
-#### Paper on process REPLACE WITH PAPER NAME
-The award also contributed to the drafting of a peer-reviewed paper that will be submitted to Digital Scholarship in the Humanities outlining a method for computationally processing non-modern, non- English languages for humanities research in a critically engaged way.
-
 #### Github repository
 All materials from the planning workshop have been collected into [this online repository]({{ site.github.repository_url }}), accessible via GitHub and deposited at Zenodo with a document object identifier. These materials include recordings of all discussions and copies of all slide decks from the planning workshop itself, as well as a summary of the key findings from the grant period.
 
 #### *Journal des Voyages* dataset
-They also include the dataset of the Journal des Voyages corpus produced through a combination of OCR scanning with keyed re-entry. Alongside the *Encyclopedie* dataset hosted by Stanford University, these data will ultimately be used to create a training model for natural language processing and named-entity recognition in non-modern French.
+They also include the dataset of the *Journal des Voyages* corpus produced through a combination of OCR scanning with keyed re-entry. Alongside the *Encyclopedie* dataset hosted by Stanford University, these data will ultimately be used to create a training model for natural language processing and named-entity recognition in non-modern French.
+
+#### Forthcoming method paper
+The award also contributed to the drafting of a peer-reviewed paper that will be submitted to [*Digital Scholarship in the Humanities*](https://academic.oup.com/dsh) outlining a method for computationally processing non-modern, non- English languages for humanities research in a critically engaged way.
