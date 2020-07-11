@@ -154,9 +154,9 @@ The following table outlines the cleaning processes have been performed to arriv
 
 |Version    |Date   |Note   |
 |:---|:---|:---|
-| [Version 0.3]   | 2020  | Add details here.  |
-| [Version 0.2]   | 2017  | Data cleaning performed by ADD COMPANY NAME.  |
-| [Version 0.1]   | 2016  | Data scraped from BnF holdings using ADD TOOL/METHOD. Data cleaned using ADD TOOLS/METHOD. |
+| Version 0.3   | 2020  | Add details here.  |
+| Version 0.2   | 2017  | Data cleaning performed by ADD COMPANY NAME.  |
+| Version 0.1   | 2016  | Data scraped from BnF holdings using ADD TOOL/METHOD. Data cleaned using ADD TOOLS/METHOD. |
 
 &nbsp;
 
@@ -199,47 +199,47 @@ The additional long-term impacts of these activities are that, to date:
 1. approximately 70 scholars have been trained in our considered approach to ethical visualization;
 2. several government organizations, startups, and research groups are currently using the Ethical Visualization method, greatly expanding the scope and reach of our project beyond what we expected.
 
-&nbsp;
+### Additional award products
 
------------------------------
-
-## Award products
-
-### Visualizing Empire project
-The grant period produced several different products, foremost among them a comprehensive plan for future project stages that takes into account the advice from the diverse range of scholars participating in the planning workshop.
-
-### Github repository
+#### Github repository
 All materials from the planning workshop have been collected into [this online repository](https://github.com/unr-ndad/empire), accessible via GitHub and deposited at Zenodo with a document object identifier. These materials include recordings of all discussions and copies of all slide decks from the planning workshop itself, as well as a summary of the key findings from the grant period.
 
-### *Journal des Voyages* dataset
+#### *Journal des Voyages* dataset
 They also include the dataset of the Journal des Voyages corpus produced through a combination of OCR scanning with keyed re-entry. Alongside the *Encyclopedie* dataset hosted by Stanford University, these data will ultimately be used to create a training model for natural language processing and named-entity recognition in non-modern French.
 
-### White paper
+&nbsp;
+
+------------------------------
+
+## White paper
 See the full white paper [here](sessions/white-paper.md).
 
 &nbsp;
 
 ------------------------------
-## Future activities
 
-### Visualizing Empire website
-A digital humanities project that seeks to ethically visualize the French historical imagination using cartographic and network visualizations of events contained within the *Journal des Voyages* corpus.
+## Future activities
 
 #### *Journal des Voyages* corpus
 This dataset will ultimately be refined and cleaned further, using ethical visualization principles, to create a complete corpus. This final corpus will be made publicly available.
 
-#### Paper on process REPLACE WITH PAPER NAME
+### Visualizing Empire website
+A digital humanities project that seeks to ethically visualize the French historical imagination using cartographic and network visualizations of events contained within the *Journal des Voyages* corpus.
+
+#### Forthcoming paper on method and process
 The award also contributed to the drafting of a peer-reviewed paper that will be submitted to Digital Scholarship in the Humanities outlining a method for computationally processing non-modern, non- English languages for humanities research in a critically engaged way.
 
+&nbsp;
 
+------------------------------
 
-### Participate
+## Participate
 
-#### Follow
+### Follow
 You can follow development of this work by subscribing to updates at [our newsletter](https://vizempire.substack.com/).
 
-#### Contribute
-We welcome communication, contributions, and thoughts on this work, particularly from people in the French diaspora. If you'd like to contribute to the development of this work, please join the [vizempire google group](vizempire@googlegroups.com). We welcome referrals to other projects, literature, and methods that may be relevant, as well as suggestions for improvement or other modes of implementation.
+### Contribute
+We welcome communication, contributions, and thoughts on this work, particularly from people in the French diaspora. If you'd like to contribute to the development of this work, please join the [vizempire google group](https://groups.google.com/d/forum/vizempire). We welcome referrals to other projects, literature, and methods that may be relevant, as well as suggestions for improvement or other modes of implementation. Contact us at [the shared project email address](vizempire@googlegroups.com).
 
 &nbsp;
 
