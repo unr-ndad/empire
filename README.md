@@ -224,14 +224,14 @@ See the [full white paper here](sessions/white-paper.md).
 
 ## Future activities
 
-#### *Journal des Voyages* corpus
+### Forthcoming paper on method and process
+The award also contributed to the drafting of a peer-reviewed paper that will be submitted to Digital Scholarship in the Humanities outlining a method for computationally processing non-modern, non- English languages for humanities research in a critically engaged way.
+
+### *Journal des Voyages* corpus
 This dataset will ultimately be refined and cleaned further, using ethical visualization principles, to create a complete corpus. This final corpus will be made publicly available.
 
 ### Visualizing Empire website
 A digital humanities project that seeks to ethically visualize the French historical imagination using cartographic and network visualizations of events contained within the *Journal des Voyages* corpus.
-
-#### Forthcoming paper on method and process
-The award also contributed to the drafting of a peer-reviewed paper that will be submitted to Digital Scholarship in the Humanities outlining a method for computationally processing non-modern, non- English languages for humanities research in a critically engaged way.
 
 &nbsp;
 
