@@ -175,7 +175,6 @@ All files are available by downloading the [github repository]({{ site.github.re
 
 ### Links
 - [Journal des Voyages at the BnF](https://gallica.bnf.fr/ark:/12148/cb34446531j/date.r=journal+des+voyages.langES?lang=EN)
-- other links
 
 &nbsp;
 
