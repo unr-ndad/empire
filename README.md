@@ -123,13 +123,17 @@ This workshop was made possible by the generosity of:
 - [Reynolds School of Journalism](https://www.unr.edu/journalism), University of Nevada, Reno
 - [College of Liberal Arts](https://www.unr.edu/liberal-arts), University of Nevada, Reno
 
-#### Acknowledgements
+#### Workshop Acknowledgements
 In addition to the participants and supporting instituions, this workshop was successful thanks to the contributions of many people, including:
 - [Mikki Johnson](https://www.linkedin.com/in/mikki-johnson-4708b084/), Department of History, University of Nevada, Reno
 - [Mark Higgins](https://www.linkedin.com/in/mark-higgins-65300271/), Facilities Management, University of Nevada, Reno
 - [Sally Echeto](https://www.unr.edu/journalism/faculty-and-staff/directory/echeto-sally) and [Barbara Trainor](https://www.unr.edu/journalism/faculty-and-staff/directory/colbert-trainor-barbara), Reynolds School of Journalism, University of Nevada, Reno
 - Fatima and [Catherine Leland](https://www.linkedin.com/in/catherine-leland-70060aa/), Silver and Blue Catering, University of Nevada, Reno
 - The staff at [Beaujolais Bistro](https://beaujolaisbistro.com/) and [Perenn Bakery](https://www.perennbakery.com/).
+
+#### Site Acknowledgements
+- RJ Ramey of Plain Talk History for generously providing the co-investigators with permission to use data and resources from his site on Florence and Monroe Work, particularly his excellent Memorandum of Understanding, which we have used as a basis for our own.
+- Catherine D'Ignazio, Lauren Klein, and MIT Press for the excellent Data Feminisms summary site, which gave us helpful tips on includes for this site.
 
 &nbsp;
 
@@ -147,7 +151,7 @@ Since the beginning of this project, we have intended to share the work of the d
 From a technical standpoint, we have cleaned the OCR output for one of these corpora, reaching a high degree of accuracy, well above the standard found in most digital collections, and we have marked-up the text. While the data set is large enough to enable the training of machine learning algorithms, such as named-entity recognition (NER), essential to the analysis of large textual corpora, it is of a manageable size with high accuracy. As a continuous time-series, the corpora also allow for the exploration of how preoccupations changed over the eighteenth and nineteenth centuries. By performing “distant reading” on these “medium data” — too large for traditional reading, but small enough to be managed in a targeted and effective manner — we can unearth the epistemological narratives targeted at the reading public. With the goal of using machine learning to broaden critical engagement with the past, this project will provide guidelines and two key training datasets, the *ARTFL Encyclopédie* and the *Journal des Voyages*, for modeling and analyzing other eighteenth and nineteenth century French sources.
 
 #### Memorandum of understanding
-Something goes here
+If you are interested in using the *Journal des Voyages* dataset, please see the [Memorandum of Understanding here](overview/mou.md).
 
 #### Data processing notes
 The following table outlines the cleaning processes have been performed to arrive at the latest version of our *Journal des Voyages* dataset.
@@ -190,7 +194,7 @@ We teach the method described above as well as how to navigate the concerns expl
 We wrote a paper on work preparatory to this workshop, it is available here:
 Katherine Hepworth and Christopher Church. 2018. [“Racism in the Machine: Visualization Ethics in Digital Humanities Projects.”](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html) *Digital Humanities Quarterly* 12:4.
 
-### Paper 2:Make Me Care
+### Paper 2: Make Me Care
 This paper incorporates some considerations explored at the workshop, and applies them to an expanded view of ethical visualization, beyond the digital humanities.
 From Hepworth, K. 2020. (forthcoming) "Make Me Care: Ethical Visualization for Impact in the Sciences and Data Sciences", *HCII Conference 2020 Proceedings*.
 
@@ -212,7 +216,7 @@ They also include the dataset of the Journal des Voyages corpus produced through
 ------------------------------
 
 ## White paper
-See the full white paper [here](sessions/white-paper.md).
+See the [full white paper here](sessions/white-paper.md).
 
 &nbsp;
 
