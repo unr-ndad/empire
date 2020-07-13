@@ -30,7 +30,7 @@ This workshop lays the foundations for:
 1. [Scholarly framing — digital humanities & French colonial history](sessions/1.md)
 2. [Metadata structure](sessions/2.md)
 3. [Natural language processing (NLP) workflow](sessions/3.md)
-4. [Domain adaptation (for early modern French)](sessins/4.md)
+4. [Domain adaptation (for early modern French)](sessions/4.md)
 5. [Ethical data visualization](sessions/5.md)
 6. [Mapping and interface design usability](sessions/6.md)
 7. [Adapting and integrating existing open source projects](sessions/7.md)
