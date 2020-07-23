@@ -158,9 +158,9 @@ The following table outlines the cleaning processes have been performed to arriv
 
 |Version    |Date   |Note   |
 |:---|:---|:---|
-| Version 0.3   | 2020  | Add details here.  |
-| Version 0.2   | 2017  | Data cleaning performed by ADD COMPANY NAME.  |
-| Version 0.1   | 2016  | Data scraped from BnF holdings using ADD TOOL/METHOD. Data cleaned using ADD TOOLS/METHOD. |
+| Version 0.3   | 2017 | Cleaned data from FlatWorld solutions was post-processed using a workflow built around the OpeNER toolkit (https://www.opener-project.eu/), generating KWIC files as well as geolocated names. Process and code for the data processing are outlined at https://github.com/cmchurch/empire-viz-alpha. Initial visualizations were generated at this stage. |
+| Version 0.2   | 2016  | Data cleaning performed by FlatWorld Solutions. Data was entered from original pages through keyed entry, cross-checked against the OCR'd data gleaned from BNF. The data went through six rounds of corrections. FlatWorld solutions promised 95% accuracy, but it became clear much later that the 95% target was not achieved. |
+| Version 0.1   | 2013  | Data scraped from BnF holdings using pjscrape and PhantomJS. Data initially cleaned using regular expressions (https://github.com/cmchurch/OCR-Postprocessing) and predictive language correction (https://github.com/cmchurch/ngram-spellchecker-FRE) based on a French-language dictionary. Later versions replaced predictive language correction with keyed entry. |
 
 &nbsp;
 
